@@ -1,0 +1,1001 @@
+﻿EmployeeID,Age,Department,JobRole,Education, MonthlyIncome ,OverTime,JobSatisfaction,Attrition,YearsAtCompany,ActiveEmployee,TenureGroup
+E1810,25,Operations,Manager,Diploma,"$66,287 ",Yes,5,No,1,Yes,New
+E1975,29,HR,Associate,Diploma,"$102,569 ",Yes,2,Yes,30,Yes,Experienced
+E1733,40,Sales,Manager,Masters,"$44,031 ",No,3,Yes,10,Yes,Veteran
+E1739,25,Operations,Associate,Masters,"$42,867 ",No,3,Yes,9,Yes,Veteran
+E1402,35,Sales,Lead,Diploma,"$101,982 ",No,5,No,23,Yes,Experienced
+E1236,54,Marketing,Analyst,Bachelors,"$42,625 ",No,1,No,1,No,New
+E1093,47,Operations,Executive,Masters,"$27,263 ",Yes,4,No,16,Yes,Experienced
+E1801,25,Sales,Lead,High School,"$53,687 ",Yes,1,Yes,36,Yes,Experienced
+E1550,29,Finance,Manager,Masters,"$81,744 ",No,1,No,32,Yes,Experienced
+E1607,36,Engineering,Manager,Masters,"$31,064 ",Yes,1,No,20,No,Experienced
+E1300,50,Sales,Lead,PhD,"$22,093 ",No,5,Yes,30,Yes,Experienced
+E1019,57,Sales,Associate,High School,"$97,116 ",Yes,3,No,0,Yes,New
+E1121,34,HR,Clerk,High School,"$73,312 ",No,3,No,38,Yes,Experienced
+E1276,57,Engineering,Executive,Diploma,"$22,642 ",Yes,1,No,1,No,New
+E1413,24,Finance,Clerk,High School,"$112,247 ",Yes,3,No,25,No,Experienced
+E1473,37,Engineering,Analyst,Masters,"$52,854 ",No,5,Yes,36,No,Experienced
+E1447,21,Operations,Executive,High School,"$77,620 ",No,1,No,11,No,Experienced
+E1909,59,Engineering,Analyst,Diploma,"$59,350 ",No,3,Yes,10,No,Veteran
+E1342,47,HR,Manager,High School,"$30,442 ",No,5,Yes,7,No,Veteran
+E1910,27,Finance,Associate,Bachelors,"$66,223 ",No,4,No,26,No,Experienced
+E1519,30,Marketing,Clerk,PhD,"$74,935 ",Yes,4,No,16,No,Experienced
+E1079,40,Finance,Clerk,Diploma,"$52,920 ",Yes,4,Yes,24,No,Experienced
+E1589,29,HR,Executive,Masters,"$63,949 ",No,4,No,36,Yes,Experienced
+E1968,55,HR,Analyst,High School,"$81,799 ",No,1,No,19,No,Experienced
+E1521,31,Engineering,Lead,PhD,"$28,328 ",No,4,Yes,8,No,Veteran
+E1200,25,HR,Executive,PhD,"$106,741 ",No,4,No,6,No,Veteran
+E1553,58,HR,Lead,PhD,"$50,009 ",No,1,No,7,Yes,Veteran
+E1806,40,Engineering,Analyst,PhD,"$56,607 ",No,1,No,19,Yes,Experienced
+E1169,21,Engineering,Manager,Bachelors, unknown ,No,5,No,19,No,Experienced
+E1043,39,Operations,Manager,PhD,"$45,711 ",Yes,1,No,17,Yes,Experienced
+E1845,39,Marketing,Associate,Diploma,"$34,026 ",Yes,1,Yes,31,No,Experienced
+E1033,40,HR,Manager,Masters,"$105,160 ",No,1,No,20,No,Experienced
+E1311,22,Sales,Analyst,High School,"$27,674 ",No,2,Yes,25,No,Experienced
+E1812,49,Marketing,Clerk,Bachelors,"$118,132 ",No,3,Yes,25,No,Experienced
+E1077,20,Sales,Associate,High School,"$108,499 ",Yes,2,Yes,14,Yes,Experienced
+E1588,31,Operations,Associate,Masters,"$89,300 ",No,1,No,33,Yes,Experienced
+E1488,44,Engineering,Clerk,High School,"$74,316 ",Yes,3,No,25,Yes,Experienced
+E1356,24,HR,Manager,PhD,"$80,030 ",Yes,5,No,6,No,Veteran
+E1271,52,Sales,Lead,PhD,"$71,707 ",No,2,No,32,Yes,Experienced
+E1244,30,Sales,Lead,Diploma,"$24,117 ",Yes,3,Yes,23,Yes,Experienced
+E1266,39,Sales,Clerk,Diploma,"$84,925 ",Yes,3,No,10,Yes,Veteran
+E1279,46,Engineering,Analyst,Bachelors,"$75,561 ",No,2,No,10,No,Veteran
+E1369,40,Finance,Analyst,High School,"$53,458 ",No,4,Yes,23,Yes,Experienced
+E1455,29,Engineering,Manager,PhD,"$68,516 ",Yes,4,No,31,No,Experienced
+E1335,20,HR,Executive,PhD,"$115,667 ",Yes,2,Yes,32,Yes,Experienced
+E1225,54,Marketing,Lead,Masters,"$36,901 ",Yes,1,No,30,No,Experienced
+E1994,56,Finance,Manager,Masters,"$109,462 ",No,5,No,37,No,Experienced
+E1213,52,Operations,Lead,High School,"$110,239 ",No,3,No,14,No,Experienced
+E1719,40,Operations,Associate,Diploma,"$42,588 ",Yes,2,No,0,Yes,New
+E1314,51,HR,Manager,Bachelors,"$80,686 ",No,5,No,7,No,Veteran
+E1323,52,HR,Lead,High School,"$24,138 ",Yes,4,Yes,12,No,Experienced
+E1330,43,Finance,Associate,Diploma,"$30,278 ",No,2,No,37,No,Experienced
+E1867,21,Marketing,Manager,High School,"$92,518 ",Yes,5,Yes,25,No,Experienced
+E1010,43,Marketing,Manager,Diploma,"$69,976 ",No,4,No,11,No,Experienced
+E1960,27,Operations,Clerk,PhD,"$77,124 ",No,2,Yes,31,No,Experienced
+E1503,24,Finance,Clerk,PhD,"$61,458 ",No,4,No,1,Yes,New
+E1912,59,Marketing,Associate,Masters,"$98,653 ",No,3,No,25,Yes,Experienced
+E1921,36,Finance,Lead,High School,"$108,151 ",Yes,3,No,34,No,Experienced
+E1249,40,Operations,Clerk,High School,"$84,925 ",No,4,No,6,No,Veteran
+E1429,46,Finance,Clerk,PhD,"$55,529 ",No,2,No,33,Yes,Experienced
+E1554,22,Operations,Executive,PhD,"$119,120 ",No,5,No,33,No,Experienced
+E1647,22,Marketing,Manager,High School,"$98,542 ",Yes,5,No,27,Yes,Experienced
+E1321,36,Finance,Executive,High School,"$86,395 ",Yes,2,No,2,Yes,New
+E1726,22,Sales,Clerk,Diploma,"$85,133 ",Yes,1,No,1,Yes,New
+E1108,20,Finance,Executive,PhD,"$82,021 ",No,5,No,2,Yes,New
+E1100,42,HR,Associate,Bachelors,"$52,934 ",No,4,No,37,No,Experienced
+E1059,53,Marketing,Executive,Diploma,"$77,615 ",Yes,4,Yes,4,Yes,Veteran
+E1101,43,Engineering,Clerk,Bachelors,"$53,276 ",No,2,Yes,33,No,Experienced
+E1393,56,Engineering,Executive,PhD,"$69,831 ",No,5,No,1,Yes,New
+E1765,43,Engineering,Associate,High School,"$117,537 ",Yes,3,No,35,Yes,Experienced
+E1397,47,HR,Manager,Bachelors,"$25,668 ",No,5,Yes,11,Yes,Experienced
+E1970,45,Operations,Associate,Masters,"$45,479 ",No,2,Yes,18,Yes,Experienced
+E1800,56,Finance,Analyst,PhD,"$63,469 ",No,5,No,38,Yes,Experienced
+E1772,37,Engineering,Manager,Masters,"$116,282 ",No,4,Yes,11,No,Experienced
+E1633,46,Marketing,Manager,PhD,"$28,026 ",No,4,No,38,No,Experienced
+E1280,46,Engineering,Lead,Masters,"$82,260 ",No,1,Yes,17,Yes,Experienced
+E1555,32,Engineering,Executive,Masters,"$110,932 ",No,2,No,4,No,Veteran
+E1457,53,Engineering,Manager,Masters,"$82,061 ",No,3,No,19,Yes,Experienced
+E1440,52,Sales,Executive,Bachelors,"$118,499 ",Yes,4,No,17,Yes,Experienced
+E1693,46,HR,Lead,Diploma,"$84,925 ",No,5,No,12,No,Experienced
+E1416,50,Engineering,Analyst,PhD,"$88,814 ",No,4,No,23,Yes,Experienced
+E1305,42,Sales,Associate,PhD,"$90,821 ",Yes,2,Yes,5,No,Veteran
+E1173,40,Engineering,Clerk,High School,"$31,889 ",No,4,Yes,11,No,Experienced
+E1217,59,Finance,Manager,PhD,"$100,702 ",No,4,Yes,32,Yes,Experienced
+E1847,39,Finance,Clerk,Bachelors,"$114,090 ",Yes,1,Yes,8,No,Veteran
+E1292,47,Marketing,Executive,Bachelors,"$62,051 ",No,1,Yes,1,Yes,New
+E1489,41,Engineering,Manager,PhD,"$25,520 ",No,3,No,20,No,Experienced
+E1370,47,HR,Analyst,PhD,"$110,605 ",Yes,3,Yes,12,Yes,Experienced
+E1453,48,Sales,Clerk,Diploma,"$115,980 ",Yes,5,No,1,Yes,New
+E1958,34,Operations,Analyst,Diploma,"$65,838 ",No,3,Yes,26,Yes,Experienced
+E1326,48,Sales,Analyst,Diploma,"$24,017 ",Yes,4,Yes,1,No,New
+E1145,49,Finance,Clerk,PhD,"$105,842 ",Yes,1,No,24,Yes,Experienced
+E1001,48,Sales,Lead,Diploma,"$26,614 ",No,3,No,23,No,Experienced
+E1778,47,HR,Executive,Masters,"$94,842 ",No,2,No,8,No,Veteran
+E1123,32,Operations,Analyst,Bachelors,"$84,925 ",Yes,3,No,16,No,Experienced
+E1080,28,Operations,Clerk,Diploma,"$31,156 ",No,5,Yes,0,Yes,New
+E1163,34,HR,Executive,Bachelors,"$89,267 ",No,5,Yes,21,Yes,Experienced
+E1260,55,Sales,Associate,High School,"$50,109 ",Yes,1,No,8,No,Veteran
+E1498,47,Finance,Associate,High School,"$84,925 ",No,3,Yes,13,Yes,Experienced
+E1731,51,Finance,Lead,Masters,"$84,925 ",Yes,4,Yes,21,Yes,Experienced
+E1302,52,Operations,Analyst,Bachelors,"$44,351 ",No,5,Yes,11,Yes,Experienced
+E1954,32,Sales,Executive,Masters, unknown ,Yes,4,Yes,13,Yes,Experienced
+E1707,36,Marketing,Analyst,High School,"$69,522 ",No,1,Yes,18,No,Experienced
+E1400,24,Operations,Manager,High School,"$93,233 ",No,3,No,19,Yes,Experienced
+E1887,54,Engineering,Manager,High School,"$76,541 ",Yes,4,Yes,22,Yes,Experienced
+E1030,22,Engineering,Lead,Diploma,"$115,742 ",No,3,Yes,11,Yes,Experienced
+E1341,34,Marketing,Executive,Diploma,"$41,281 ",Yes,2,No,19,No,Experienced
+E1914,51,Sales,Manager,Bachelors,"$104,486 ",No,2,Yes,15,Yes,Experienced
+E1644,50,Engineering,Executive,PhD,"$37,889 ",No,5,Yes,11,No,Experienced
+E1381,44,Marketing,Executive,Masters,"$39,296 ",No,4,No,26,No,Experienced
+E1075,48,Operations,Executive,Bachelors,"$114,019 ",Yes,2,No,37,Yes,Experienced
+E1816,43,HR,Lead,Masters,"$118,371 ",No,1,Yes,0,Yes,New
+E1450,36,Engineering,Clerk,High School,"$34,387 ",Yes,3,No,32,Yes,Experienced
+E1430,39,Operations,Lead,Bachelors,"$38,452 ",Yes,1,Yes,10,Yes,Veteran
+E1981,45,Sales,Analyst,PhD,"$64,825 ",Yes,4,Yes,11,Yes,Experienced
+E1056,48,Finance,Associate,PhD, unknown ,No,2,No,7,Yes,Veteran
+E1637,54,Engineering,Manager,High School,"$29,277 ",Yes,4,No,18,No,Experienced
+E1004,40,Sales,Manager,PhD,"$63,884 ",No,2,Yes,3,Yes,Veteran
+E1652,29,Sales,Associate,Bachelors,"$36,633 ",No,1,Yes,14,Yes,Experienced
+E1040,28,Marketing,Manager,Masters,"$55,517 ",No,2,No,31,No,Experienced
+E1456,45,HR,Associate,High School,"$84,925 ",No,2,No,3,No,Veteran
+E1299,48,Sales,Analyst,High School,"$101,132 ",Yes,1,No,37,No,Experienced
+E1641,47,Sales,Manager,High School,"$34,683 ",Yes,2,No,6,Yes,Veteran
+E1452,27,HR,Clerk,High School,"$91,832 ",No,2,Yes,14,Yes,Experienced
+E1760,33,Marketing,Clerk,PhD,"$118,046 ",No,1,Yes,20,No,Experienced
+E1358,23,Finance,Manager,Bachelors,"$25,283 ",Yes,4,Yes,39,Yes,Experienced
+E1855,55,HR,Clerk,PhD,"$111,051 ",No,1,Yes,21,No,Experienced
+E1838,27,Operations,Clerk,Diploma,"$115,989 ",No,3,No,23,No,Experienced
+E1672,31,Marketing,Analyst,PhD,"$113,583 ",Yes,2,Yes,17,No,Experienced
+E1549,46,Finance,Manager,High School,"$78,692 ",Yes,3,No,13,No,Experienced
+E1922,52,Marketing,Clerk,PhD,"$23,327 ",No,3,Yes,20,Yes,Experienced
+E1290,54,Engineering,Manager,PhD,"$82,912 ",No,2,Yes,19,No,Experienced
+E1492,55,Operations,Executive,PhD,"$61,605 ",Yes,5,No,30,Yes,Experienced
+E1404,45,HR,Associate,High School,"$66,218 ",No,3,Yes,0,No,New
+E1750,41,Engineering,Associate,Bachelors,"$101,570 ",No,5,Yes,2,No,New
+E1344,21,HR,Lead,High School,"$47,586 ",No,2,Yes,28,Yes,Experienced
+E1854,30,Operations,Executive,Diploma,"$67,574 ",No,3,No,4,Yes,Veteran
+E1138,41,Engineering,Analyst,Masters,"$90,305 ",Yes,1,No,34,Yes,Experienced
+E1054,25,Marketing,Lead,Diploma,"$48,884 ",Yes,1,Yes,8,No,Veteran
+E1740,20,HR,Associate,Diploma,"$20,203 ",No,4,No,31,No,Experienced
+E1469,43,Marketing,Executive,Diploma,"$76,358 ",Yes,2,No,0,Yes,New
+E1058,45,Sales,Executive,Bachelors,"$35,088 ",No,2,No,17,Yes,Experienced
+E1983,45,Sales,Clerk,Bachelors,"$80,931 ",No,3,Yes,30,Yes,Experienced
+E1348,44,HR,Manager,PhD,"$106,346 ",No,4,No,25,Yes,Experienced
+E1229,21,HR,Analyst,High School,"$82,120 ",No,3,No,22,No,Experienced
+E1932,27,Engineering,Executive,Diploma,"$53,998 ",Yes,5,Yes,8,No,Veteran
+E1376,31,Operations,Analyst,PhD,"$44,170 ",Yes,4,No,22,Yes,Experienced
+E1579,37,Marketing,Analyst,PhD,"$92,309 ",No,3,Yes,1,No,New
+E1811,23,Sales,Analyst,Bachelors,"$106,724 ",No,5,Yes,31,No,Experienced
+E1974,30,Sales,Executive,Masters,"$62,043 ",Yes,1,Yes,10,Yes,Veteran
+E1723,59,HR,Lead,PhD,"$108,031 ",Yes,2,No,17,Yes,Experienced
+E1823,40,HR,Lead,Masters,"$84,925 ",No,2,No,11,Yes,Experienced
+E1803,53,Engineering,Lead,Diploma,"$37,375 ",Yes,2,Yes,4,No,Veteran
+E1385,58,HR,Clerk,Masters,"$38,257 ",Yes,5,No,26,No,Experienced
+E1224,49,Finance,Clerk,Bachelors,"$30,561 ",No,4,No,29,Yes,Experienced
+E1917,42,Marketing,Executive,Bachelors,"$111,066 ",No,2,No,34,Yes,Experienced
+E1568,40,HR,Manager,PhD,"$50,075 ",No,2,Yes,8,No,Veteran
+E1544,55,Operations,Manager,PhD,"$96,700 ",No,3,Yes,19,Yes,Experienced
+E1879,49,HR,Clerk,PhD,"$103,055 ",No,4,Yes,13,No,Experienced
+E1410,56,Marketing,Clerk,High School,"$61,094 ",Yes,4,No,10,Yes,Veteran
+E1948,21,Engineering,Associate,Bachelors,"$107,985 ",No,3,No,30,No,Experienced
+E1881,24,Finance,Executive,PhD,"$94,102 ",No,2,No,19,No,Experienced
+E1967,50,Finance,Lead,PhD,"$95,831 ",Yes,4,Yes,7,No,Veteran
+E1027,47,Marketing,Associate,PhD,"$97,787 ",Yes,4,Yes,21,Yes,Experienced
+E1199,28,Operations,Analyst,PhD,"$101,938 ",Yes,5,Yes,11,No,Experienced
+E1721,27,HR,Clerk,PhD,"$51,709 ",Yes,4,Yes,27,No,Experienced
+E1906,44,HR,Lead,High School,"$41,119 ",Yes,4,No,9,No,Veteran
+E1767,45,Marketing,Lead,Diploma,"$87,914 ",No,3,No,16,Yes,Experienced
+E1315,41,Sales,Executive,Diploma,"$114,851 ",No,3,Yes,4,No,Veteran
+E1219,30,Finance,Executive,Diploma,"$114,776 ",Yes,3,No,4,Yes,Veteran
+E1752,36,Operations,Lead,Diploma,"$39,259 ",No,1,Yes,24,Yes,Experienced
+E1569,51,Marketing,Executive,High School,"$29,359 ",Yes,2,No,25,No,Experienced
+E1476,43,HR,Executive,Diploma,"$36,322 ",No,4,Yes,3,Yes,Veteran
+E1828,47,Engineering,Analyst,High School,"$107,959 ",Yes,4,Yes,38,Yes,Experienced
+E1016,21,Finance,Lead,PhD,"$81,240 ",Yes,2,No,34,Yes,Experienced
+E1724,23,HR,Executive,Bachelors,"$57,019 ",No,5,Yes,11,No,Experienced
+E1431,43,Finance,Clerk,Diploma,"$69,393 ",No,1,No,0,No,New
+E1063,50,Operations,Clerk,PhD,"$23,273 ",No,1,No,3,Yes,Veteran
+E1729,46,Sales,Clerk,Bachelors, unknown ,No,3,No,23,No,Experienced
+E1497,26,Operations,Executive,Diploma,"$98,581 ",No,3,No,1,No,New
+E1528,59,Finance,Associate,Diploma,"$28,640 ",No,1,No,13,No,Experienced
+E1605,55,Operations,Lead,Bachelors,"$45,307 ",No,2,Yes,25,Yes,Experienced
+E1551,45,Marketing,Manager,High School,"$35,810 ",No,5,Yes,27,Yes,Experienced
+E1510,40,HR,Manager,High School,"$66,313 ",No,5,No,28,No,Experienced
+E1081,43,Engineering,Associate,Bachelors,"$31,108 ",Yes,4,No,6,No,Veteran
+E1139,47,Marketing,Manager,Bachelors,"$57,564 ",Yes,2,No,2,Yes,New
+E1616,25,Engineering,Analyst,Bachelors,"$69,683 ",No,2,Yes,19,No,Experienced
+E1572,40,Finance,Associate,Bachelors,"$79,191 ",Yes,1,Yes,3,No,Veteran
+E1513,33,Engineering,Clerk,Masters,"$84,925 ",Yes,2,Yes,11,No,Experienced
+E1347,41,Engineering,Lead,Diploma,"$103,104 ",No,5,No,29,Yes,Experienced
+E1320,45,HR,Lead,PhD,"$49,943 ",Yes,1,No,36,Yes,Experienced
+E1064,34,HR,Executive,Diploma,"$67,135 ",No,2,Yes,38,No,Experienced
+E1231,31,Operations,Executive,Bachelors,"$34,256 ",Yes,5,No,15,Yes,Experienced
+E1460,30,Operations,Clerk,Diploma,"$81,753 ",No,4,Yes,27,No,Experienced
+E1577,38,Marketing,Executive,PhD,"$45,963 ",Yes,3,Yes,22,Yes,Experienced
+E1418,38,HR,Executive,Masters,"$45,398 ",Yes,3,No,34,No,Experienced
+E1198,52,Sales,Associate,Masters,"$115,549 ",No,3,Yes,24,No,Experienced
+E1037,23,Sales,Associate,Masters,"$71,001 ",Yes,4,Yes,38,No,Experienced
+E1246,40,Engineering,Executive,Diploma,"$117,718 ",No,1,Yes,29,No,Experienced
+E1007,42,Finance,Manager,Bachelors,"$57,044 ",Yes,1,Yes,4,No,Veteran
+E1461,48,Sales,Analyst,High School,"$104,774 ",Yes,3,No,12,No,Experienced
+E1009,30,Operations,Clerk,Bachelors,"$57,544 ",No,3,No,18,No,Experienced
+E1791,29,Finance,Analyst,Diploma,"$81,114 ",No,5,Yes,27,Yes,Experienced
+E1421,24,Operations,Lead,Masters,"$84,925 ",Yes,5,Yes,35,Yes,Experienced
+E1546,50,Marketing,Lead,PhD,"$104,607 ",Yes,2,No,37,No,Experienced
+E1250,54,Operations,Clerk,Diploma,"$87,054 ",No,3,No,37,Yes,Experienced
+E1227,35,HR,Associate,Bachelors,"$82,875 ",No,2,Yes,14,Yes,Experienced
+E1055,23,HR,Manager,PhD,"$110,421 ",Yes,2,Yes,8,No,Veteran
+E1558,47,Sales,Analyst,Masters,"$32,816 ",No,1,Yes,8,Yes,Veteran
+E1495,31,HR,Analyst,PhD,"$33,917 ",Yes,1,No,13,No,Experienced
+E1082,20,HR,Clerk,Bachelors,"$51,845 ",Yes,4,No,30,No,Experienced
+E1343,40,Finance,Clerk,Diploma,"$93,788 ",No,1,Yes,30,Yes,Experienced
+E1308,37,Operations,Lead,High School,"$98,513 ",No,3,Yes,4,No,Veteran
+E1098,53,Engineering,Analyst,PhD,"$85,942 ",Yes,5,Yes,33,No,Experienced
+E1946,23,HR,Associate,PhD,"$54,314 ",No,4,No,13,No,Experienced
+E1283,49,Marketing,Clerk,Masters, unknown ,Yes,3,Yes,34,No,Experienced
+E1601,27,Marketing,Lead,PhD,"$112,910 ",Yes,1,No,1,No,New
+E1146,30,Marketing,Executive,PhD,"$90,533 ",Yes,4,Yes,39,Yes,Experienced
+E1789,44,Marketing,Executive,PhD,"$55,618 ",No,4,Yes,29,Yes,Experienced
+E1706,29,Sales,Executive,PhD,"$92,075 ",Yes,3,No,5,Yes,Veteran
+E1621,29,Engineering,Clerk,Bachelors,"$46,946 ",Yes,1,No,10,No,Veteran
+E1514,50,Finance,Associate,Masters,"$117,406 ",Yes,3,No,34,No,Experienced
+E1819,50,Finance,Associate,Diploma,"$90,014 ",No,2,No,18,Yes,Experienced
+E1122,45,Engineering,Executive,Diploma,"$32,112 ",No,4,Yes,23,No,Experienced
+E1593,57,Operations,Manager,Diploma,"$43,185 ",No,4,No,2,Yes,New
+E1390,31,Sales,Executive,Masters,"$83,610 ",No,1,Yes,2,No,New
+E1662,59,Finance,Executive,PhD,"$83,972 ",Yes,4,Yes,12,Yes,Experienced
+E1218,20,Sales,Analyst,Diploma,"$71,913 ",No,1,No,21,Yes,Experienced
+E1679,40,Operations,Analyst,High School,"$64,516 ",No,1,Yes,5,Yes,Veteran
+E1119,28,Sales,Manager,Diploma,"$112,268 ",Yes,5,Yes,3,Yes,Veteran
+E1432,31,Engineering,Lead,High School,"$51,174 ",Yes,5,No,14,Yes,Experienced
+E1570,40,Marketing,Manager,High School,"$62,056 ",No,1,Yes,1,No,New
+E1992,23,Operations,Associate,High School,"$67,893 ",No,3,No,3,Yes,Veteran
+E1120,34,Marketing,Executive,High School,"$54,998 ",No,5,No,9,No,Veteran
+E1923,21,HR,Lead,PhD,"$49,768 ",Yes,1,Yes,35,Yes,Experienced
+E1383,20,Marketing,Associate,High School,"$84,925 ",No,1,No,24,Yes,Experienced
+E1737,41,Operations,Associate,Bachelors,"$69,145 ",No,5,Yes,30,No,Experienced
+E1980,40,HR,Clerk,Bachelors,"$24,131 ",Yes,1,Yes,18,Yes,Experienced
+E1612,47,HR,Executive,Masters,"$26,476 ",Yes,1,Yes,29,Yes,Experienced
+E1484,54,HR,Manager,PhD,"$43,199 ",No,5,Yes,35,Yes,Experienced
+E1053,21,HR,Executive,High School,"$25,141 ",No,3,Yes,37,Yes,Experienced
+E1211,51,HR,Manager,Diploma,"$95,277 ",No,2,Yes,19,Yes,Experienced
+E1223,50,HR,Associate,High School,"$75,312 ",No,5,No,36,No,Experienced
+E1448,54,Sales,Clerk,High School,"$52,828 ",Yes,3,No,6,Yes,Veteran
+E1467,56,Sales,Analyst,Bachelors,"$79,500 ",Yes,4,Yes,15,Yes,Experienced
+E1395,48,Operations,Manager,Masters,"$113,809 ",Yes,5,Yes,22,No,Experienced
+E1894,30,HR,Manager,PhD,"$111,056 ",No,3,No,31,Yes,Experienced
+E1128,40,Finance,Manager,PhD,"$93,155 ",No,1,No,9,No,Veteran
+E1352,34,Finance,Clerk,Masters,"$78,671 ",Yes,4,Yes,35,Yes,Experienced
+E1890,59,Operations,Lead,High School,"$77,433 ",Yes,5,Yes,39,Yes,Experienced
+E1963,40,HR,Executive,PhD,"$99,655 ",No,1,Yes,36,Yes,Experienced
+E1684,30,Marketing,Lead,Bachelors,"$79,049 ",Yes,2,Yes,38,No,Experienced
+E1956,55,HR,Analyst,Bachelors,"$117,183 ",No,5,Yes,35,No,Experienced
+E1306,52,Finance,Lead,PhD,"$102,289 ",Yes,4,Yes,2,Yes,New
+E1316,42,Finance,Lead,High School,"$89,212 ",Yes,3,Yes,14,Yes,Experienced
+E1857,22,Operations,Clerk,Bachelors,"$20,570 ",No,2,No,9,Yes,Veteran
+E1141,25,Marketing,Manager,Bachelors,"$99,747 ",No,5,Yes,36,No,Experienced
+E1565,44,Operations,Executive,Diploma,"$50,698 ",Yes,1,No,2,Yes,New
+E1935,52,Finance,Manager,Masters,"$84,925 ",Yes,3,Yes,2,Yes,New
+E1858,52,Operations,Associate,Masters,"$117,790 ",Yes,1,Yes,23,No,Experienced
+E1833,49,HR,Analyst,PhD,"$90,532 ",No,5,No,4,No,Veteran
+E1035,58,HR,Executive,Diploma,"$42,412 ",Yes,4,Yes,9,Yes,Veteran
+E1464,40,Operations,Lead,High School, unknown ,Yes,4,No,29,Yes,Experienced
+E1405,40,Operations,Analyst,Diploma,"$27,352 ",Yes,3,Yes,0,No,New
+E1594,31,Finance,Executive,High School,"$63,442 ",No,3,No,12,No,Experienced
+E1479,56,Sales,Clerk,PhD,"$71,925 ",Yes,2,No,15,Yes,Experienced
+E1233,56,Sales,Lead,High School,"$48,230 ",Yes,5,No,34,No,Experienced
+E1904,45,Sales,Associate,PhD,"$25,021 ",Yes,3,No,3,No,Veteran
+E1538,20,HR,Manager,Diploma,"$52,972 ",No,1,Yes,15,No,Experienced
+E1044,40,Sales,Associate,Diploma,"$50,106 ",No,5,Yes,38,No,Experienced
+E1861,24,Finance,Manager,Masters,"$49,877 ",Yes,2,Yes,6,No,Veteran
+E1446,50,Finance,Executive,PhD,"$23,606 ",Yes,4,No,2,No,New
+E1530,46,Marketing,Executive,High School,"$50,049 ",No,3,No,14,No,Experienced
+E1673,20,HR,Associate,Diploma,"$96,502 ",Yes,3,No,26,No,Experienced
+E1091,24,HR,Lead,PhD,"$40,583 ",Yes,4,Yes,14,No,Experienced
+E1257,21,Engineering,Manager,High School,"$114,803 ",Yes,4,No,25,No,Experienced
+E1023,31,Finance,Clerk,PhD,"$58,578 ",No,3,Yes,14,No,Experienced
+E1118,46,Engineering,Clerk,PhD,"$20,174 ",No,2,Yes,1,Yes,New
+E1272,31,Sales,Clerk,Diploma,"$38,689 ",No,1,No,20,Yes,Experienced
+E1947,41,Engineering,Executive,PhD,"$68,225 ",No,2,Yes,6,Yes,Veteran
+E1181,38,HR,Clerk,Diploma,"$36,199 ",Yes,5,No,4,No,Veteran
+E1659,32,Operations,Lead,High School,"$97,299 ",Yes,5,No,29,Yes,Experienced
+E1937,58,Finance,Associate,Bachelors,"$75,571 ",Yes,3,Yes,5,Yes,Veteran
+E1969,55,Finance,Executive,Diploma,"$110,221 ",Yes,5,No,21,No,Experienced
+E1768,33,Operations,Lead,PhD,"$70,357 ",Yes,5,Yes,39,No,Experienced
+E1386,24,Operations,Associate,High School,"$32,855 ",Yes,3,No,0,Yes,New
+E1150,52,Engineering,Clerk,High School,"$38,624 ",Yes,5,Yes,12,Yes,Experienced
+E1226,26,Operations,Executive,PhD,"$115,556 ",Yes,4,Yes,9,Yes,Veteran
+E1264,33,Engineering,Associate,Masters,"$21,306 ",No,5,Yes,2,No,New
+E1166,43,Sales,Associate,High School,"$111,649 ",No,3,No,11,No,Experienced
+E1296,54,Finance,Manager,PhD,"$21,920 ",Yes,4,Yes,8,No,Veteran
+E1209,38,Operations,Associate,PhD,"$101,486 ",Yes,3,Yes,1,Yes,New
+E1437,31,HR,Lead,Diploma, unknown ,No,1,No,12,Yes,Experienced
+E1502,35,Finance,Analyst,Bachelors,"$92,617 ",No,4,No,19,No,Experienced
+E1354,52,Sales,Associate,PhD,"$86,897 ",No,1,Yes,36,No,Experienced
+E1753,45,Sales,Analyst,Bachelors,"$55,959 ",Yes,3,No,0,Yes,New
+E1114,24,Operations,Lead,PhD,"$56,176 ",No,4,Yes,28,No,Experienced
+E1971,46,Finance,Clerk,High School,"$66,172 ",No,3,No,29,No,Experienced
+E1025,44,Sales,Associate,Diploma,"$42,318 ",Yes,5,No,23,Yes,Experienced
+E1277,57,HR,Manager,Masters,"$62,137 ",No,1,Yes,26,Yes,Experienced
+E1165,51,Marketing,Manager,Bachelors,"$47,798 ",Yes,1,Yes,34,Yes,Experienced
+E1599,55,Marketing,Lead,Masters,"$71,717 ",Yes,3,Yes,11,No,Experienced
+E1714,32,HR,Analyst,Masters,"$96,280 ",No,2,No,2,Yes,New
+E1111,33,Engineering,Analyst,Diploma,"$62,291 ",No,1,Yes,9,No,Veteran
+E1189,36,Finance,Associate,Masters,"$36,523 ",No,5,No,30,No,Experienced
+E1915,57,Sales,Clerk,Bachelors,"$102,895 ",Yes,2,No,6,No,Veteran
+E1590,51,Engineering,Lead,Diploma,"$57,405 ",No,1,Yes,29,Yes,Experienced
+E1248,59,HR,Clerk,High School,"$114,426 ",No,2,No,25,No,Experienced
+E1691,49,Finance,Clerk,Masters,"$58,712 ",No,3,No,39,Yes,Experienced
+E1042,21,Engineering,Manager,High School,"$43,064 ",Yes,2,No,27,Yes,Experienced
+E1205,55,HR,Analyst,High School,"$110,563 ",Yes,4,Yes,22,Yes,Experienced
+E1959,48,Marketing,Clerk,High School,"$39,539 ",Yes,2,Yes,24,No,Experienced
+E1559,27,HR,Associate,Diploma,"$59,082 ",Yes,4,No,31,No,Experienced
+E1817,28,Finance,Lead,High School,"$95,324 ",Yes,3,Yes,4,Yes,Veteran
+E1134,55,Sales,Lead,Diploma,"$38,919 ",Yes,3,No,23,No,Experienced
+E1193,53,Operations,Manager,Bachelors,"$92,525 ",Yes,4,No,5,Yes,Veteran
+E1699,49,HR,Analyst,High School, unknown ,No,4,No,24,Yes,Experienced
+E1095,28,Marketing,Clerk,High School,"$109,285 ",No,4,No,6,No,Veteran
+E1408,52,Sales,Analyst,Bachelors,"$117,493 ",No,5,No,29,No,Experienced
+E1552,38,HR,Executive,High School,"$25,126 ",Yes,5,Yes,36,No,Experienced
+E1322,59,Operations,Lead,Bachelors,"$64,816 ",No,1,Yes,30,Yes,Experienced
+E1026,46,Engineering,Clerk,Bachelors,"$95,715 ",No,3,Yes,34,Yes,Experienced
+E1424,43,Sales,Associate,Diploma,"$87,173 ",Yes,1,No,15,No,Experienced
+E1993,24,Finance,Lead,Diploma,"$64,673 ",No,3,Yes,21,No,Experienced
+E1575,55,Marketing,Executive,High School,"$47,048 ",Yes,3,No,38,No,Experienced
+E1499,33,Marketing,Lead,Bachelors,"$90,269 ",Yes,2,Yes,32,No,Experienced
+E1539,41,Engineering,Manager,PhD,"$30,799 ",No,3,No,10,No,Veteran
+E1872,40,HR,Clerk,High School,"$29,941 ",No,2,No,14,No,Experienced
+E1650,56,Finance,Lead,High School,"$41,639 ",No,1,Yes,4,Yes,Veteran
+E1361,49,Operations,Executive,Masters,"$34,924 ",Yes,2,Yes,37,No,Experienced
+E1428,51,Marketing,Clerk,Diploma,"$45,500 ",No,1,No,14,No,Experienced
+E1563,32,Operations,Clerk,Masters,"$60,142 ",Yes,1,No,11,No,Experienced
+E1384,35,Sales,Associate,High School,"$106,664 ",Yes,1,No,8,No,Veteran
+E1583,20,Operations,Analyst,Masters,"$24,434 ",No,1,No,17,Yes,Experienced
+E1202,48,Finance,Executive,Masters,"$84,925 ",No,4,No,16,No,Experienced
+E1683,21,Marketing,Executive,Bachelors,"$104,811 ",Yes,5,No,25,Yes,Experienced
+E1907,44,HR,Analyst,High School,"$71,539 ",No,3,No,23,Yes,Experienced
+E1337,35,HR,Analyst,Diploma,"$80,128 ",No,5,No,37,Yes,Experienced
+E1783,41,HR,Clerk,Diploma,"$43,386 ",No,4,No,26,No,Experienced
+E1293,49,Engineering,Associate,Diploma,"$84,925 ",Yes,4,No,17,No,Experienced
+E1129,56,Operations,Analyst,High School,"$91,569 ",Yes,4,Yes,8,Yes,Veteran
+E1821,56,Marketing,Lead,PhD,"$30,922 ",No,4,No,24,Yes,Experienced
+E1903,33,Sales,Executive,High School,"$109,049 ",No,1,Yes,24,Yes,Experienced
+E1255,37,Marketing,Manager,Diploma,"$84,619 ",No,3,Yes,14,Yes,Experienced
+E1234,51,Engineering,Lead,PhD, unknown ,Yes,1,Yes,33,Yes,Experienced
+E1353,56,Operations,Analyst,Diploma,"$111,785 ",No,5,No,19,Yes,Experienced
+E1136,40,Engineering,Clerk,Diploma,"$46,400 ",No,1,Yes,3,No,Veteran
+E1846,52,Engineering,Analyst,Diploma,"$73,535 ",No,1,Yes,23,No,Experienced
+E1480,31,Engineering,Manager,Bachelors,"$79,848 ",Yes,2,No,17,Yes,Experienced
+E1153,32,Finance,Associate,PhD,"$119,303 ",No,4,No,16,No,Experienced
+E1206,38,Marketing,Clerk,High School,"$66,220 ",No,3,Yes,26,No,Experienced
+E1511,58,Engineering,Associate,PhD,"$112,365 ",Yes,1,Yes,6,No,Veteran
+E1989,59,Sales,Associate,Bachelors,"$97,694 ",No,1,Yes,1,Yes,New
+E1979,27,HR,Manager,High School,"$36,351 ",Yes,2,No,22,Yes,Experienced
+E1076,34,Finance,Analyst,High School,"$107,599 ",Yes,1,Yes,3,Yes,Veteran
+E1741,24,Operations,Manager,PhD,"$36,544 ",No,3,No,1,No,New
+E1939,55,Sales,Manager,Bachelors,"$25,750 ",No,5,No,32,Yes,Experienced
+E1999,48,HR,Clerk,Masters,"$30,692 ",Yes,3,No,1,Yes,New
+E1982,31,HR,Associate,Diploma,"$31,349 ",No,5,Yes,14,No,Experienced
+E1571,35,Operations,Manager,Bachelors,"$71,831 ",No,3,Yes,2,Yes,New
+E1795,41,HR,Lead,Bachelors,"$34,334 ",Yes,1,Yes,1,No,New
+E1345,51,Engineering,Manager,Bachelors,"$73,053 ",No,1,No,8,Yes,Veteran
+E1192,24,Engineering,Clerk,Bachelors,"$30,808 ",Yes,3,Yes,1,Yes,New
+E1537,27,HR,Analyst,Bachelors,"$85,774 ",Yes,5,Yes,38,Yes,Experienced
+E1977,57,HR,Manager,Diploma,"$77,980 ",Yes,4,Yes,35,No,Experienced
+E1736,47,HR,Manager,Diploma,"$45,939 ",Yes,2,No,14,Yes,Experienced
+E1021,40,Marketing,Executive,Diploma,"$58,402 ",No,3,No,31,Yes,Experienced
+E1911,58,Finance,Executive,PhD,"$45,517 ",No,5,No,15,No,Experienced
+E1849,20,Finance,Executive,PhD,"$72,113 ",Yes,4,No,22,Yes,Experienced
+E1743,45,HR,Lead,Masters,"$49,063 ",Yes,5,No,22,Yes,Experienced
+E1005,58,HR,Manager,PhD,"$84,925 ",No,2,Yes,23,No,Experienced
+E1359,25,HR,Clerk,Bachelors,"$27,610 ",No,5,No,28,Yes,Experienced
+E1523,29,HR,Associate,Masters,"$105,280 ",Yes,4,No,35,No,Experienced
+E1876,40,Sales,Lead,Masters,"$106,669 ",Yes,2,No,16,Yes,Experienced
+E1841,25,Engineering,Manager,PhD,"$72,691 ",Yes,5,No,11,No,Experienced
+E1573,30,Finance,Lead,Bachelors,"$53,272 ",No,5,Yes,24,No,Experienced
+E1584,22,Sales,Associate,Masters,"$69,810 ",No,4,No,12,No,Experienced
+E1635,52,Finance,Executive,Diploma,"$88,842 ",No,3,No,18,Yes,Experienced
+E1363,59,Engineering,Executive,Diploma,"$20,869 ",No,3,No,37,Yes,Experienced
+E1230,20,Marketing,Clerk,Bachelors,"$21,988 ",Yes,3,No,32,Yes,Experienced
+E1003,27,Engineering,Manager,Masters,"$108,691 ",No,4,No,8,Yes,Veteran
+E1813,30,Sales,Lead,Masters,"$113,308 ",No,5,Yes,5,No,Veteran
+E1759,41,HR,Analyst,Diploma,"$36,103 ",Yes,5,Yes,22,Yes,Experienced
+E1784,45,Finance,Clerk,Masters,"$84,925 ",No,3,Yes,1,Yes,New
+E1060,29,Sales,Lead,High School,"$65,046 ",No,1,No,13,No,Experienced
+E1340,42,Engineering,Manager,Masters,"$25,039 ",Yes,5,Yes,20,No,Experienced
+E1435,52,HR,Associate,Masters,"$67,406 ",Yes,2,No,4,Yes,Veteran
+E1615,54,Sales,Clerk,Diploma,"$22,382 ",No,5,Yes,8,No,Veteran
+E1754,55,Operations,Associate,Diploma,"$53,457 ",No,4,No,2,Yes,New
+E1965,21,Marketing,Analyst,Masters,"$74,567 ",No,4,Yes,8,No,Veteran
+E1814,49,Operations,Analyst,Masters,"$116,393 ",Yes,2,Yes,2,No,New
+E1988,52,Marketing,Lead,High School,"$38,263 ",No,2,Yes,25,No,Experienced
+E1374,42,Marketing,Executive,Diploma,"$63,516 ",No,3,No,27,Yes,Experienced
+E1252,54,Sales,Executive,Bachelors,"$42,547 ",Yes,2,No,22,No,Experienced
+E1966,46,HR,Analyst,PhD,"$57,099 ",Yes,1,No,34,No,Experienced
+E1156,25,Operations,Executive,High School,"$78,002 ",No,2,No,34,No,Experienced
+E1831,34,HR,Analyst,Masters,"$92,374 ",No,5,Yes,19,No,Experienced
+E1443,48,Engineering,Manager,Masters,"$84,925 ",Yes,4,Yes,22,Yes,Experienced
+E1197,35,Marketing,Lead,Diploma,"$105,024 ",No,2,No,15,Yes,Experienced
+E1933,34,Operations,Manager,High School,"$47,230 ",No,5,Yes,27,No,Experienced
+E1632,40,Marketing,Analyst,High School,"$113,305 ",No,2,No,28,No,Experienced
+E1394,41,Finance,Clerk,Diploma,"$63,427 ",Yes,5,No,17,No,Experienced
+E1178,51,Finance,Manager,High School,"$66,289 ",Yes,3,No,15,No,Experienced
+E1131,58,Operations,Executive,Bachelors,"$90,482 ",Yes,5,Yes,12,No,Experienced
+E1936,49,Engineering,Lead,Diploma,"$51,085 ",Yes,1,Yes,19,Yes,Experienced
+E1868,39,Finance,Clerk,Masters,"$59,104 ",No,1,Yes,17,No,Experienced
+E1827,39,Sales,Lead,Masters,"$31,094 ",No,5,No,21,Yes,Experienced
+E1458,26,HR,Analyst,PhD,"$86,736 ",No,4,Yes,35,Yes,Experienced
+E1487,39,Finance,Analyst,PhD,"$81,934 ",No,3,No,28,No,Experienced
+E1836,34,HR,Associate,High School,"$50,257 ",No,2,Yes,32,Yes,Experienced
+E1485,49,Sales,Manager,Masters,"$64,589 ",No,2,No,38,Yes,Experienced
+E1176,42,Sales,Associate,Diploma,"$106,610 ",Yes,1,No,32,Yes,Experienced
+E1990,31,Sales,Manager,PhD,"$35,735 ",No,5,Yes,19,Yes,Experienced
+E1239,40,HR,Manager,PhD,"$61,167 ",Yes,4,No,15,No,Experienced
+E1796,53,Operations,Executive,Masters,"$114,715 ",Yes,5,Yes,39,No,Experienced
+E1779,40,Operations,Associate,Diploma,"$34,908 ",No,2,No,20,Yes,Experienced
+E1087,27,HR,Associate,PhD,"$53,872 ",Yes,2,Yes,38,No,Experienced
+E1955,50,Engineering,Analyst,High School,"$22,775 ",Yes,2,Yes,39,No,Experienced
+E1191,43,Finance,Lead,Bachelors,"$39,552 ",No,3,Yes,6,No,Veteran
+E1859,25,HR,Executive,PhD,"$39,288 ",Yes,4,No,17,Yes,Experienced
+E1436,56,Engineering,Clerk,PhD,"$83,059 ",No,3,Yes,34,No,Experienced
+E1032,26,HR,Clerk,High School,"$80,142 ",No,2,No,0,Yes,New
+E1496,28,HR,Associate,Bachelors,"$90,293 ",No,3,Yes,36,No,Experienced
+E1926,59,Sales,Lead,Masters,"$62,788 ",No,3,Yes,5,No,Veteran
+E1420,20,Engineering,Analyst,PhD,"$33,261 ",Yes,3,No,27,No,Experienced
+E1624,40,Operations,Clerk,Bachelors, unknown ,No,4,Yes,18,No,Experienced
+E1346,42,Finance,Analyst,Bachelors,"$70,489 ",No,2,Yes,14,No,Experienced
+E1680,56,Sales,Clerk,High School,"$107,796 ",No,5,No,13,Yes,Experienced
+E1732,38,Operations,Manager,Diploma,"$63,395 ",No,3,No,35,Yes,Experienced
+E1987,44,Operations,Lead,PhD,"$38,814 ",No,2,Yes,28,Yes,Experienced
+E1700,36,HR,Manager,Diploma,"$84,925 ",Yes,1,Yes,12,No,Experienced
+E1892,48,HR,Lead,Diploma,"$39,404 ",Yes,2,No,8,No,Veteran
+E1137,26,Finance,Lead,Diploma,"$70,445 ",Yes,5,Yes,23,No,Experienced
+E1388,48,Marketing,Executive,High School,"$40,025 ",Yes,4,No,9,No,Veteran
+E1787,32,Engineering,Manager,Bachelors,"$104,748 ",Yes,2,No,32,Yes,Experienced
+E1067,42,Sales,Clerk,Diploma,"$98,077 ",Yes,4,Yes,27,No,Experienced
+E1002,34,Operations,Manager,Diploma,"$27,415 ",No,5,Yes,28,Yes,Experienced
+E1780,58,Marketing,Lead,Masters,"$112,617 ",No,2,No,10,No,Veteran
+E1052,23,Operations,Executive,Bachelors,"$47,127 ",Yes,3,Yes,17,Yes,Experienced
+E1938,46,Sales,Analyst,Masters,"$34,715 ",No,5,Yes,38,No,Experienced
+E1109,54,Sales,Manager,Bachelors,"$57,125 ",No,3,No,21,No,Experienced
+E1143,47,HR,Executive,Bachelors,"$47,962 ",No,3,No,34,No,Experienced
+E1426,21,Marketing,Lead,Diploma,"$33,652 ",No,5,Yes,14,No,Experienced
+E1627,51,Engineering,Associate,Diploma,"$47,197 ",No,1,Yes,39,No,Experienced
+E1512,58,HR,Manager,PhD,"$89,166 ",No,5,No,13,Yes,Experienced
+E1835,40,HR,Executive,Diploma,"$55,595 ",No,1,No,39,No,Experienced
+E1103,54,HR,Associate,Bachelors,"$84,925 ",No,5,No,13,Yes,Experienced
+E1427,47,Engineering,Lead,PhD,"$25,103 ",No,5,No,15,No,Experienced
+E1639,40,Operations,Clerk,Masters,"$67,664 ",No,5,No,15,No,Experienced
+E1794,55,Marketing,Analyst,Masters,"$99,818 ",No,4,No,22,Yes,Experienced
+E1667,27,Marketing,Lead,High School,"$55,931 ",No,4,No,37,No,Experienced
+E1614,32,Marketing,Clerk,High School,"$110,101 ",No,5,Yes,33,No,Experienced
+E1360,51,Marketing,Clerk,High School,"$63,326 ",Yes,4,No,15,Yes,Experienced
+E1769,26,HR,Lead,High School,"$84,925 ",No,3,No,2,No,New
+E1403,45,Sales,Lead,Bachelors,"$30,751 ",Yes,3,No,19,Yes,Experienced
+E1799,38,Operations,Manager,PhD,"$52,933 ",Yes,5,Yes,1,Yes,New
+E1829,30,Sales,Manager,High School,"$53,418 ",Yes,3,Yes,12,Yes,Experienced
+E1124,51,Operations,Analyst,Bachelors,"$64,814 ",No,3,No,5,Yes,Veteran
+E1929,25,HR,Manager,High School,"$72,446 ",No,1,Yes,19,No,Experienced
+E1576,40,Marketing,Manager,High School,"$96,274 ",Yes,2,No,34,No,Experienced
+E1764,33,Engineering,Clerk,Bachelors,"$48,901 ",Yes,1,Yes,5,Yes,Veteran
+E1694,53,HR,Lead,Masters,"$53,722 ",No,3,Yes,20,Yes,Experienced
+E1365,32,HR,Manager,Diploma,"$21,014 ",No,4,No,13,No,Experienced
+E1201,35,Sales,Lead,Diploma,"$46,049 ",No,1,Yes,38,Yes,Experienced
+E1158,46,HR,Executive,Bachelors,"$72,815 ",Yes,1,No,1,Yes,New
+E1941,57,Operations,Analyst,Masters,"$55,903 ",No,3,Yes,36,Yes,Experienced
+E1973,39,HR,Associate,Diploma,"$75,863 ",No,5,Yes,34,No,Experienced
+E1602,47,Finance,Analyst,Bachelors,"$75,480 ",Yes,3,Yes,10,Yes,Veteran
+E1713,21,HR,Associate,High School,"$48,453 ",No,3,Yes,4,No,Veteran
+E1665,47,Operations,Manager,Masters,"$39,996 ",No,4,No,25,Yes,Experienced
+E1578,39,HR,Lead,High School,"$63,954 ",No,5,Yes,8,Yes,Veteran
+E1125,58,Engineering,Analyst,Bachelors,"$84,925 ",Yes,1,No,18,No,Experienced
+E1899,40,Finance,Lead,PhD,"$42,439 ",No,4,Yes,34,Yes,Experienced
+E1006,38,Finance,Clerk,High School,"$57,726 ",No,4,Yes,13,Yes,Experienced
+E1407,55,Sales,Analyst,High School,"$108,835 ",Yes,4,Yes,0,Yes,New
+E1159,28,Finance,Associate,High School,"$24,986 ",No,1,Yes,12,No,Experienced
+E1962,48,Marketing,Lead,High School,"$46,616 ",Yes,5,Yes,17,No,Experienced
+E1564,47,Engineering,Analyst,High School,"$56,468 ",Yes,4,Yes,28,No,Experienced
+E1034,40,Engineering,Analyst,PhD,"$46,564 ",Yes,2,No,0,No,New
+E1509,42,Engineering,Clerk,Masters,"$49,345 ",Yes,4,No,11,Yes,Experienced
+E1471,54,Finance,Manager,PhD,"$112,789 ",Yes,2,No,21,Yes,Experienced
+E1310,50,HR,Clerk,High School,"$70,931 ",No,1,No,20,Yes,Experienced
+E1919,52,Marketing,Lead,Diploma,"$74,199 ",Yes,1,No,39,Yes,Experienced
+E1682,33,Marketing,Analyst,Masters, unknown ,Yes,1,No,5,Yes,Veteran
+E1439,20,HR,Clerk,High School,"$32,356 ",Yes,2,Yes,10,No,Veteran
+E1333,55,Marketing,Executive,PhD,"$21,134 ",Yes,1,No,7,Yes,Veteran
+E1048,33,Sales,Associate,Masters,"$106,511 ",No,5,Yes,30,Yes,Experienced
+E1885,53,Marketing,Manager,Diploma,"$86,677 ",No,4,No,12,No,Experienced
+E1671,22,Finance,Manager,Masters,"$97,241 ",No,5,Yes,23,No,Experienced
+E1582,50,Marketing,Clerk,Bachelors,"$31,676 ",No,2,Yes,31,No,Experienced
+E1221,44,Finance,Clerk,Masters,"$74,845 ",Yes,4,No,17,Yes,Experienced
+E1687,53,Sales,Clerk,Diploma,"$84,925 ",Yes,3,No,13,No,Experienced
+E1950,24,HR,Clerk,High School,"$55,179 ",Yes,1,No,30,Yes,Experienced
+E1771,42,HR,Lead,High School,"$55,503 ",No,3,No,38,Yes,Experienced
+E1708,39,Operations,Analyst,Bachelors,"$119,161 ",No,1,No,2,No,New
+E1606,46,Engineering,Associate,Bachelors,"$116,371 ",Yes,3,Yes,17,No,Experienced
+E1774,54,Marketing,Clerk,Diploma,"$95,403 ",No,5,Yes,21,Yes,Experienced
+E1444,32,Operations,Clerk,Bachelors,"$112,471 ",Yes,2,No,6,Yes,Veteran
+E1253,44,HR,Lead,High School,"$101,882 ",No,1,Yes,27,No,Experienced
+E1738,40,HR,Analyst,Diploma,"$40,324 ",Yes,3,No,15,No,Experienced
+E1214,59,Engineering,Manager,High School,"$42,931 ",Yes,4,No,28,No,Experienced
+E1267,27,HR,Analyst,Bachelors,"$114,767 ",Yes,2,Yes,32,No,Experienced
+E1581,34,Sales,Analyst,Bachelors,"$20,717 ",Yes,3,No,1,Yes,New
+E1047,54,Finance,Executive,PhD,"$109,272 ",No,5,No,7,No,Veteran
+E1646,57,HR,Associate,Masters,"$64,535 ",No,2,No,4,No,Veteran
+E1534,56,Finance,Lead,High School,"$84,925 ",No,3,No,28,Yes,Experienced
+E1786,36,HR,Analyst,Diploma,"$80,815 ",No,1,Yes,30,Yes,Experienced
+E1645,24,Sales,Executive,Bachelors,"$75,612 ",No,4,Yes,7,No,Veteran
+E1669,45,Finance,Executive,Bachelors,"$54,693 ",Yes,4,No,5,Yes,Veteran
+E1747,46,Sales,Lead,High School,"$100,764 ",Yes,3,Yes,39,No,Experienced
+E1061,55,Sales,Analyst,Masters,"$30,014 ",Yes,4,Yes,27,Yes,Experienced
+E1660,23,Sales,Executive,Diploma,"$40,176 ",Yes,4,Yes,25,No,Experienced
+E1804,25,Marketing,Lead,Diploma,"$85,206 ",Yes,1,No,20,Yes,Experienced
+E1074,44,Operations,Lead,PhD,"$88,368 ",No,3,No,19,No,Experienced
+E1203,22,Sales,Clerk,Bachelors,"$104,526 ",Yes,3,No,10,Yes,Veteran
+E1157,27,HR,Manager,High School,"$55,531 ",Yes,5,Yes,16,Yes,Experienced
+E1567,57,Sales,Executive,PhD,"$67,897 ",Yes,1,No,29,Yes,Experienced
+E1610,39,HR,Clerk,Masters,"$56,945 ",No,2,Yes,21,No,Experienced
+E1991,55,Engineering,Analyst,PhD,"$35,830 ",Yes,2,No,14,Yes,Experienced
+E1434,40,Operations,Lead,High School,"$55,436 ",No,1,Yes,3,Yes,Veteran
+E1294,48,Engineering,Manager,PhD,"$102,736 ",Yes,3,Yes,9,No,Veteran
+E1262,23,Engineering,Clerk,Diploma,"$84,925 ",Yes,4,No,38,Yes,Experienced
+E1722,23,Sales,Analyst,Bachelors,"$67,788 ",Yes,1,No,28,Yes,Experienced
+E1755,20,Sales,Manager,PhD,"$105,679 ",No,1,Yes,25,No,Experienced
+E1916,40,Marketing,Analyst,High School,"$109,132 ",No,1,Yes,15,Yes,Experienced
+E1451,45,Marketing,Executive,Bachelors,"$89,463 ",No,1,No,36,No,Experienced
+E1130,42,Finance,Clerk,PhD,"$61,328 ",Yes,3,Yes,26,No,Experienced
+E1187,23,HR,Clerk,Diploma,"$112,036 ",No,4,No,2,Yes,New
+E1889,20,Engineering,Executive,Diploma,"$23,255 ",Yes,3,Yes,38,Yes,Experienced
+E1152,46,Marketing,Executive,High School,"$20,389 ",No,3,Yes,5,Yes,Veteran
+E1482,42,HR,Manager,PhD,"$21,700 ",No,2,Yes,1,Yes,New
+E1587,30,Sales,Clerk,Diploma,"$24,234 ",No,3,No,24,No,Experienced
+E1745,40,HR,Manager,Bachelors,"$23,748 ",Yes,5,Yes,37,Yes,Experienced
+E1634,32,Finance,Clerk,Bachelors,"$84,925 ",Yes,1,Yes,32,No,Experienced
+E1501,38,Marketing,Manager,Bachelors,"$116,671 ",No,4,No,38,Yes,Experienced
+E1339,31,Operations,Executive,Bachelors,"$41,869 ",No,3,Yes,7,No,Veteran
+E1288,38,HR,Clerk,Masters,"$75,276 ",Yes,5,No,24,Yes,Experienced
+E1560,58,Marketing,Executive,Diploma,"$85,048 ",No,5,No,32,Yes,Experienced
+E1629,40,Engineering,Associate,Diploma,"$44,123 ",Yes,1,No,25,Yes,Experienced
+E1520,37,Sales,Executive,Bachelors,"$63,370 ",No,3,No,4,Yes,Veteran
+E1506,40,Finance,Analyst,High School,"$119,977 ",No,3,Yes,17,No,Experienced
+E1882,33,Finance,Analyst,Diploma,"$92,762 ",Yes,2,No,29,No,Experienced
+E1168,58,Operations,Executive,Diploma,"$39,477 ",No,3,No,4,No,Veteran
+E1481,32,Sales,Manager,PhD,"$113,422 ",No,5,Yes,21,Yes,Experienced
+E1785,44,Engineering,Clerk,PhD,"$48,302 ",Yes,5,No,23,Yes,Experienced
+E1127,23,Marketing,Lead,Bachelors,"$53,919 ",Yes,3,Yes,31,No,Experienced
+E1837,30,Marketing,Manager,PhD,"$34,211 ",Yes,1,No,7,Yes,Veteran
+E1442,29,HR,Clerk,Diploma,"$97,243 ",No,1,No,38,Yes,Experienced
+E1843,23,Operations,Lead,Masters,"$99,768 ",Yes,1,No,38,No,Experienced
+E1066,33,Finance,Analyst,Diploma,"$117,022 ",No,2,No,24,No,Experienced
+E1757,54,HR,Clerk,Diploma,"$85,901 ",Yes,3,Yes,8,No,Veteran
+E1695,57,Finance,Analyst,PhD,"$30,625 ",No,3,Yes,9,Yes,Veteran
+E1734,24,Finance,Executive,Bachelors,"$95,542 ",No,5,No,28,No,Experienced
+E1618,24,Sales,Executive,Diploma,"$65,276 ",No,3,No,24,Yes,Experienced
+E1626,37,Operations,Manager,Masters,"$99,930 ",No,5,No,26,Yes,Experienced
+E1151,20,HR,Analyst,Diploma,"$84,925 ",Yes,2,No,26,Yes,Experienced
+E1853,56,Marketing,Clerk,Bachelors,"$92,567 ",No,3,No,35,Yes,Experienced
+E1873,28,Operations,Analyst,Masters,"$81,169 ",Yes,1,Yes,32,No,Experienced
+E1140,21,Finance,Executive,High School,"$65,814 ",Yes,5,No,3,No,Veteran
+E1543,23,Finance,Associate,Diploma,"$113,500 ",Yes,3,No,17,Yes,Experienced
+E1728,22,Sales,Associate,PhD,"$47,526 ",Yes,2,Yes,15,No,Experienced
+E1282,40,Finance,Executive,Bachelors,"$68,442 ",No,2,No,34,Yes,Experienced
+E1698,34,HR,Clerk,Diploma,"$26,859 ",No,1,Yes,1,No,New
+E1088,54,Operations,Analyst,Bachelors,"$30,728 ",No,2,No,17,No,Experienced
+E1375,28,Finance,Clerk,Masters,"$49,061 ",No,2,No,7,Yes,Veteran
+E1651,29,Engineering,Associate,High School,"$84,712 ",Yes,3,No,21,No,Experienced
+E1620,21,Finance,Analyst,Bachelors,"$111,881 ",Yes,2,Yes,4,Yes,Veteran
+E1269,22,Finance,Manager,Masters,"$56,963 ",Yes,5,No,10,No,Veteran
+E1697,43,Finance,Manager,Diploma,"$96,509 ",No,3,Yes,14,Yes,Experienced
+E1535,57,Engineering,Executive,Diploma,"$84,925 ",No,2,Yes,3,No,Veteran
+E1012,59,Sales,Analyst,Diploma,"$23,832 ",Yes,4,No,16,Yes,Experienced
+E1462,55,Engineering,Clerk,PhD,"$31,087 ",No,3,Yes,0,No,New
+E1773,57,Sales,Associate,Masters,"$113,459 ",Yes,5,Yes,1,No,New
+E1863,29,Finance,Associate,Diploma,"$20,917 ",No,2,Yes,25,Yes,Experienced
+E1366,49,Operations,Analyst,Bachelors,"$30,103 ",No,5,Yes,32,No,Experienced
+E1367,38,Engineering,Clerk,High School,"$102,522 ",No,2,Yes,8,Yes,Veteran
+E1478,51,Finance,Executive,Diploma,"$84,925 ",Yes,2,Yes,17,No,Experienced
+E1391,45,Operations,Lead,Diploma,"$84,925 ",No,1,No,5,No,Veteran
+E1318,46,HR,Clerk,Masters,"$110,009 ",No,4,No,0,No,New
+E1477,42,Marketing,Clerk,Masters,"$26,968 ",Yes,2,Yes,35,Yes,Experienced
+E1681,40,Operations,Analyst,Diploma,"$46,069 ",Yes,2,No,21,No,Experienced
+E1908,37,Sales,Lead,Masters,"$114,835 ",Yes,5,No,20,No,Experienced
+E1776,44,Operations,Clerk,Diploma,"$53,724 ",Yes,4,Yes,29,No,Experienced
+E1295,25,Sales,Manager,Diploma,"$85,618 ",No,2,Yes,4,Yes,Veteran
+E1625,20,Marketing,Clerk,PhD,"$65,095 ",Yes,4,Yes,22,No,Experienced
+E1334,39,HR,Associate,Masters,"$82,943 ",No,2,No,7,No,Veteran
+E1690,37,Operations,Lead,High School,"$82,522 ",Yes,2,Yes,6,No,Veteran
+E1834,57,Marketing,Executive,High School,"$42,164 ",No,2,Yes,23,Yes,Experienced
+E1396,33,Operations,Associate,Diploma,"$84,925 ",No,2,No,1,No,New
+E1529,28,HR,Associate,Bachelors,"$111,057 ",No,1,Yes,24,No,Experienced
+E1045,26,HR,Analyst,Masters,"$85,458 ",Yes,1,No,28,No,Experienced
+E1895,56,Marketing,Executive,High School,"$39,173 ",Yes,4,No,16,Yes,Experienced
+E1518,40,Engineering,Analyst,Bachelors,"$84,925 ",Yes,4,Yes,9,Yes,Veteran
+E1401,31,Finance,Analyst,PhD,"$44,417 ",Yes,2,Yes,38,No,Experienced
+E1944,46,HR,Analyst,Diploma,"$111,036 ",No,4,No,14,No,Experienced
+E1964,31,HR,Executive,Diploma,"$110,695 ",Yes,5,No,25,No,Experienced
+E1533,48,Marketing,Lead,High School,"$21,920 ",Yes,5,No,14,Yes,Experienced
+E1822,55,Marketing,Executive,Bachelors,"$56,289 ",Yes,5,No,34,No,Experienced
+E1686,57,Operations,Executive,Bachelors,"$52,821 ",No,2,No,34,No,Experienced
+E1943,56,HR,Lead,Diploma,"$52,093 ",Yes,2,No,33,Yes,Experienced
+E1164,51,Operations,Clerk,Masters,"$36,835 ",Yes,3,Yes,2,No,New
+E1596,47,Marketing,Clerk,Masters,"$61,153 ",Yes,1,No,25,No,Experienced
+E1086,40,HR,Associate,Masters,"$97,603 ",No,5,No,11,Yes,Experienced
+E1611,32,Operations,Clerk,Bachelors,"$67,937 ",No,2,Yes,29,Yes,Experienced
+E1547,38,HR,Analyst,Diploma,"$91,696 ",Yes,4,Yes,12,No,Experienced
+E1725,44,Marketing,Lead,Diploma,"$64,948 ",No,1,Yes,12,Yes,Experienced
+E1307,22,Operations,Associate,Bachelors,"$104,021 ",Yes,3,Yes,9,Yes,Veteran
+E1099,52,HR,Lead,Diploma,"$33,689 ",No,4,Yes,5,No,Veteran
+E1212,26,Sales,Associate,Bachelors,"$108,278 ",Yes,3,Yes,24,No,Experienced
+E1630,40,Sales,Clerk,Masters,"$107,923 ",No,5,No,26,Yes,Experienced
+E1263,52,Finance,Analyst,Masters,"$54,510 ",No,5,No,3,No,Veteran
+E1748,28,Engineering,Analyst,High School,"$40,884 ",Yes,3,No,25,Yes,Experienced
+E1301,40,Marketing,Executive,Masters,"$84,925 ",No,3,No,9,Yes,Veteran
+E1677,36,Sales,Clerk,High School,"$65,913 ",No,4,Yes,16,Yes,Experienced
+E1826,21,HR,Clerk,High School,"$104,178 ",Yes,5,No,33,No,Experienced
+E1069,40,Finance,Clerk,PhD,"$84,925 ",No,2,No,1,No,New
+E1371,45,Engineering,Clerk,PhD,"$102,409 ",No,2,Yes,25,Yes,Experienced
+E1898,54,Sales,Executive,Masters,"$44,519 ",Yes,3,Yes,5,No,Veteran
+E1815,50,Finance,Executive,Bachelors,"$96,312 ",Yes,2,No,32,Yes,Experienced
+E1540,36,HR,Manager,Masters,"$91,088 ",No,5,No,13,No,Experienced
+E1574,56,Operations,Analyst,High School, unknown ,No,5,Yes,12,No,Experienced
+E1704,29,Finance,Associate,Diploma,"$104,481 ",No,3,Yes,37,No,Experienced
+E1092,58,Operations,Associate,PhD, unknown ,No,5,No,29,No,Experienced
+E1756,27,Sales,Executive,High School,"$22,103 ",Yes,3,No,17,Yes,Experienced
+E1927,58,Finance,Associate,Bachelors,"$102,384 ",Yes,2,Yes,23,No,Experienced
+E1777,40,Engineering,Associate,Diploma,"$84,286 ",Yes,4,No,4,Yes,Veteran
+E1840,24,Engineering,Executive,Bachelors,"$87,753 ",No,2,Yes,15,Yes,Experienced
+E1688,57,Marketing,Lead,High School,"$80,935 ",No,2,No,21,No,Experienced
+E1105,41,Sales,Analyst,PhD,"$104,444 ",No,3,Yes,36,No,Experienced
+E1711,53,Operations,Lead,High School,"$51,455 ",Yes,4,Yes,8,Yes,Veteran
+E1194,25,HR,Manager,Masters,"$43,620 ",No,2,No,31,Yes,Experienced
+E1070,35,Operations,Analyst,Diploma,"$72,874 ",Yes,1,Yes,13,No,Experienced
+E1705,36,Sales,Clerk,PhD,"$80,593 ",No,4,Yes,2,Yes,New
+E1788,39,Operations,Clerk,Bachelors,"$83,344 ",Yes,5,No,38,No,Experienced
+E1355,27,Finance,Associate,PhD,"$46,149 ",No,3,No,21,No,Experienced
+E1328,54,HR,Manager,PhD,"$82,956 ",No,4,No,37,Yes,Experienced
+E1285,47,Engineering,Analyst,PhD,"$21,813 ",Yes,1,No,27,No,Experienced
+E1878,40,Marketing,Manager,Bachelors,"$24,529 ",Yes,2,Yes,16,Yes,Experienced
+E1655,40,HR,Clerk,Bachelors,"$52,172 ",No,3,No,32,Yes,Experienced
+E1107,40,HR,Executive,Masters,"$41,644 ",Yes,4,No,2,No,New
+E1228,45,Operations,Lead,Bachelors,"$45,917 ",Yes,4,No,17,Yes,Experienced
+E1619,44,Finance,Associate,PhD,"$53,402 ",Yes,2,Yes,18,No,Experienced
+E1603,47,Engineering,Associate,Diploma,"$58,759 ",Yes,1,Yes,38,No,Experienced
+E1275,49,Finance,Lead,Bachelors,"$94,816 ",Yes,2,No,37,Yes,Experienced
+E1524,36,Finance,Analyst,Masters,"$104,925 ",Yes,5,No,35,Yes,Experienced
+E1317,21,HR,Executive,PhD,"$22,426 ",No,3,Yes,15,No,Experienced
+E1022,52,Sales,Executive,Masters,"$77,727 ",Yes,2,No,8,No,Veteran
+E1766,21,Marketing,Manager,PhD,"$101,159 ",No,1,Yes,27,Yes,Experienced
+E1175,47,Operations,Analyst,PhD,"$31,254 ",No,4,No,9,Yes,Veteran
+E1516,54,Sales,Manager,Diploma,"$67,221 ",Yes,3,No,16,Yes,Experienced
+E1865,32,Operations,Clerk,High School,"$115,040 ",Yes,5,Yes,15,No,Experienced
+E1238,35,HR,Lead,PhD,"$99,650 ",No,1,No,12,No,Experienced
+E1466,29,Finance,Executive,Diploma, unknown ,No,1,Yes,24,Yes,Experienced
+E1717,35,Operations,Manager,Masters,"$32,226 ",Yes,5,No,3,Yes,Veteran
+E1545,25,HR,Analyst,PhD,"$57,158 ",No,2,No,24,Yes,Experienced
+E1493,31,Engineering,Analyst,Diploma,"$34,955 ",No,4,No,8,Yes,Veteran
+E1297,40,Sales,Associate,High School,"$97,219 ",No,1,Yes,1,Yes,New
+E1654,36,HR,Manager,PhD,"$88,975 ",Yes,3,No,27,No,Experienced
+E1324,28,Operations,Lead,Masters,"$111,176 ",No,3,Yes,15,No,Experienced
+E1676,49,Operations,Associate,Bachelors,"$101,471 ",No,2,Yes,9,Yes,Veteran
+E1744,53,HR,Clerk,PhD,"$110,880 ",Yes,1,No,1,Yes,New
+E1154,40,Finance,Analyst,Diploma,"$87,391 ",Yes,3,Yes,35,Yes,Experienced
+E1273,41,HR,Analyst,Diploma,"$49,084 ",No,2,No,38,No,Experienced
+E1790,23,Finance,Clerk,Masters,"$96,234 ",Yes,1,No,36,Yes,Experienced
+E1591,35,HR,Manager,Diploma,"$54,872 ",Yes,5,Yes,6,No,Veteran
+E1664,40,Engineering,Analyst,High School,"$61,003 ",No,2,Yes,32,No,Experienced
+E1327,45,Engineering,Lead,Masters,"$30,451 ",No,4,No,26,Yes,Experienced
+E1050,55,Finance,Lead,PhD,"$116,117 ",Yes,4,No,6,Yes,Veteran
+E1170,22,Operations,Clerk,PhD,"$106,328 ",Yes,3,No,38,No,Experienced
+E1362,54,HR,Clerk,Diploma,"$96,162 ",Yes,3,No,27,Yes,Experienced
+E1278,27,Sales,Clerk,PhD,"$84,925 ",Yes,2,No,35,Yes,Experienced
+E1924,33,Operations,Analyst,Bachelors,"$84,418 ",Yes,4,Yes,16,Yes,Experienced
+E1972,24,Operations,Associate,High School,"$119,165 ",Yes,2,Yes,27,No,Experienced
+E1065,27,Marketing,Manager,Bachelors,"$50,881 ",No,1,Yes,19,No,Experienced
+E1133,48,HR,Clerk,Bachelors,"$54,675 ",Yes,4,Yes,20,No,Experienced
+E1174,21,Sales,Associate,High School,"$44,335 ",No,5,No,12,No,Experienced
+E1126,51,Marketing,Lead,Diploma,"$70,719 ",No,5,Yes,4,Yes,Veteran
+E1309,44,Sales,Analyst,Masters,"$39,874 ",No,3,Yes,25,No,Experienced
+E1657,28,Engineering,Analyst,Bachelors,"$78,847 ",No,5,No,32,No,Experienced
+E1751,49,Engineering,Lead,Masters,"$91,246 ",Yes,3,No,13,Yes,Experienced
+E1387,41,Sales,Executive,Masters,"$105,178 ",No,4,Yes,22,No,Experienced
+E1304,51,Finance,Lead,Diploma,"$93,903 ",No,4,Yes,20,No,Experienced
+E1886,31,Finance,Lead,Bachelors,"$24,627 ",Yes,1,No,17,No,Experienced
+E1852,57,HR,Manager,Masters,"$83,185 ",Yes,3,Yes,14,Yes,Experienced
+E1303,40,Engineering,Executive,Bachelors,"$50,981 ",No,3,Yes,35,No,Experienced
+E1049,36,Sales,Associate,Masters,"$27,214 ",Yes,1,No,33,Yes,Experienced
+E1014,22,Operations,Clerk,Masters,"$100,437 ",Yes,2,No,23,Yes,Experienced
+E1893,27,Finance,Executive,Masters,"$45,380 ",No,1,No,32,Yes,Experienced
+E1775,34,HR,Associate,High School,"$61,258 ",No,1,Yes,22,Yes,Experienced
+E1167,31,HR,Analyst,Diploma,"$84,887 ",No,4,Yes,23,Yes,Experienced
+E1792,22,Finance,Lead,Masters,"$90,130 ",No,1,No,30,Yes,Experienced
+E1905,40,Operations,Clerk,Diploma,"$118,000 ",No,1,Yes,9,Yes,Veteran
+E1953,57,Finance,Analyst,Bachelors,"$89,681 ",No,5,Yes,16,No,Experienced
+E1918,34,Operations,Analyst,PhD,"$86,798 ",No,2,Yes,15,Yes,Experienced
+E1742,31,HR,Analyst,High School,"$35,899 ",Yes,1,Yes,23,Yes,Experienced
+E1332,26,Operations,Associate,Bachelors,"$63,764 ",No,5,Yes,10,No,Veteran
+E1976,59,Engineering,Lead,Masters,"$35,408 ",Yes,5,No,38,Yes,Experienced
+E1274,41,Sales,Lead,Bachelors,"$60,387 ",No,1,No,30,No,Experienced
+E1020,21,HR,Lead,Bachelors,"$73,459 ",Yes,2,Yes,14,Yes,Experienced
+E1468,28,Sales,Analyst,Masters,"$104,514 ",No,1,Yes,18,Yes,Experienced
+E1718,50,Operations,Lead,Bachelors,"$113,405 ",Yes,3,No,4,Yes,Veteran
+E1486,36,Sales,Executive,Bachelors,"$52,115 ",Yes,1,No,38,No,Experienced
+E1735,40,Marketing,Analyst,Diploma,"$57,701 ",No,3,No,34,Yes,Experienced
+E1522,28,Engineering,Analyst,PhD,"$35,534 ",Yes,5,No,32,No,Experienced
+E1084,43,Operations,Manager,Diploma,"$62,712 ",No,5,No,4,No,Veteran
+E1617,37,Finance,Associate,High School,"$107,999 ",No,1,No,39,No,Experienced
+E1474,58,Sales,Clerk,Diploma,"$96,240 ",Yes,5,No,35,Yes,Experienced
+E1286,52,HR,Manager,PhD,"$113,027 ",No,1,Yes,38,No,Experienced
+E1692,34,Finance,Executive,Bachelors,"$84,551 ",No,4,No,24,Yes,Experienced
+E1180,20,Sales,Clerk,Diploma,"$57,327 ",Yes,3,No,2,Yes,New
+E1179,52,Sales,Lead,PhD,"$73,747 ",Yes,3,Yes,34,Yes,Experienced
+E1595,43,Marketing,Clerk,PhD,"$71,759 ",Yes,2,Yes,2,No,New
+E1844,38,Finance,Executive,PhD,"$45,613 ",Yes,2,Yes,24,Yes,Experienced
+E1188,30,Finance,Executive,Masters, unknown ,No,4,No,7,No,Veteran
+E1505,31,HR,Clerk,PhD,"$41,113 ",Yes,1,Yes,36,No,Experienced
+E1715,40,HR,Analyst,High School,"$84,925 ",No,1,Yes,10,Yes,Veteran
+E1818,40,Marketing,Analyst,Diploma,"$91,196 ",Yes,1,Yes,12,Yes,Experienced
+E1116,33,Finance,Analyst,Bachelors,"$45,675 ",Yes,1,No,6,No,Veteran
+E1449,42,Sales,Clerk,Diploma,"$46,489 ",No,5,Yes,25,Yes,Experienced
+E1996,47,HR,Clerk,Masters,"$23,373 ",Yes,1,Yes,25,No,Experienced
+E1096,40,Sales,Analyst,PhD,"$39,456 ",Yes,1,No,30,Yes,Experienced
+E1716,42,Sales,Associate,High School,"$71,877 ",No,5,No,29,No,Experienced
+E1984,32,Marketing,Analyst,PhD,"$64,254 ",Yes,1,No,36,No,Experienced
+E1997,40,Operations,Clerk,Diploma,"$30,335 ",Yes,1,Yes,10,Yes,Veteran
+E1901,24,HR,Executive,PhD,"$34,995 ",Yes,1,No,33,Yes,Experienced
+E1951,29,Sales,Associate,Masters,"$45,338 ",No,3,Yes,28,Yes,Experienced
+E1656,33,Marketing,Manager,Diploma,"$79,197 ",No,5,Yes,22,Yes,Experienced
+E1289,23,Marketing,Executive,Masters,"$61,243 ",Yes,4,Yes,37,Yes,Experienced
+E1097,40,Finance,Clerk,PhD,"$111,118 ",No,1,Yes,38,No,Experienced
+E1608,28,HR,Lead,High School,"$96,848 ",No,2,Yes,35,Yes,Experienced
+E1406,58,Sales,Manager,High School,"$99,052 ",No,2,Yes,16,No,Experienced
+E1864,21,Sales,Manager,PhD,"$95,602 ",No,1,No,4,Yes,Veteran
+E1643,24,Engineering,Associate,Diploma,"$109,211 ",No,5,No,31,Yes,Experienced
+E1507,40,Operations,Manager,High School,"$110,226 ",Yes,4,No,15,No,Experienced
+E1609,52,HR,Analyst,Masters,"$84,925 ",Yes,4,Yes,39,No,Experienced
+E1398,24,Marketing,Associate,Bachelors,"$111,470 ",No,3,No,21,Yes,Experienced
+E1875,34,Engineering,Manager,High School,"$79,821 ",No,3,Yes,20,Yes,Experienced
+E1254,48,Marketing,Lead,Masters,"$88,136 ",No,5,No,33,Yes,Experienced
+E1824,50,Marketing,Executive,PhD,"$59,850 ",No,1,No,29,No,Experienced
+E1661,20,Sales,Executive,PhD,"$64,386 ",Yes,5,Yes,15,No,Experienced
+E1454,45,Finance,Analyst,PhD, unknown ,No,3,No,6,No,Veteran
+E1112,22,Engineering,Executive,High School,"$55,060 ",No,5,Yes,2,Yes,New
+E1674,24,Engineering,Associate,Bachelors,"$37,374 ",No,5,Yes,7,Yes,Veteran
+E1900,56,Marketing,Manager,High School,"$96,949 ",Yes,3,Yes,36,Yes,Experienced
+E1490,32,HR,Executive,Masters,"$56,455 ",No,5,No,16,Yes,Experienced
+E1470,54,Operations,Associate,Bachelors,"$86,197 ",Yes,3,Yes,4,Yes,Veteran
+E1147,47,Engineering,Manager,Masters,"$76,184 ",No,4,No,12,No,Experienced
+E1018,40,Finance,Lead,Diploma,"$105,076 ",No,4,No,16,No,Experienced
+E1542,44,Engineering,Executive,Masters,"$90,463 ",Yes,2,No,37,Yes,Experienced
+E1028,35,Sales,Manager,Masters,"$105,029 ",Yes,3,Yes,26,Yes,Experienced
+E1648,42,Operations,Executive,High School,"$74,319 ",No,2,No,4,No,Veteran
+E1531,21,Engineering,Clerk,Bachelors,"$25,618 ",Yes,3,Yes,5,No,Veteran
+E1869,20,Operations,Manager,Bachelors,"$38,062 ",No,5,Yes,28,No,Experienced
+E1331,32,HR,Executive,Diploma,"$110,480 ",No,5,No,24,No,Experienced
+E1548,58,Operations,Lead,High School,"$84,925 ",No,3,No,3,No,Veteran
+E1409,49,Marketing,Manager,Bachelors,"$48,927 ",No,3,No,2,Yes,New
+E1808,40,Finance,Manager,Bachelors,"$43,993 ",No,4,Yes,19,Yes,Experienced
+E1850,45,Sales,Analyst,Diploma,"$39,610 ",Yes,5,No,12,Yes,Experienced
+E1832,25,Finance,Associate,High School,"$88,798 ",No,1,Yes,30,Yes,Experienced
+E1995,27,Sales,Clerk,High School,"$65,066 ",No,2,No,22,No,Experienced
+E1024,41,HR,Manager,Diploma,"$110,453 ",No,3,Yes,27,No,Experienced
+E1171,56,Sales,Manager,Masters,"$105,988 ",Yes,4,Yes,38,No,Experienced
+E1377,20,Sales,Lead,PhD,"$28,024 ",Yes,1,Yes,28,Yes,Experienced
+E1357,58,Sales,Lead,PhD,"$84,925 ",No,2,Yes,22,Yes,Experienced
+E1532,40,Operations,Clerk,High School,"$76,053 ",Yes,3,No,28,Yes,Experienced
+E1083,27,Sales,Analyst,PhD,"$22,800 ",Yes,5,Yes,11,No,Experienced
+E1349,41,Marketing,Lead,High School,"$87,087 ",No,3,Yes,9,Yes,Veteran
+E1940,48,Engineering,Executive,Masters,"$98,768 ",No,4,Yes,0,Yes,New
+E1417,29,Marketing,Lead,Masters,"$27,296 ",No,4,Yes,9,Yes,Veteran
+E1636,53,Finance,Executive,PhD,"$53,665 ",Yes,1,Yes,36,No,Experienced
+E1600,45,Finance,Lead,Masters,"$22,763 ",Yes,3,No,35,Yes,Experienced
+E1874,30,HR,Executive,Masters, unknown ,Yes,2,No,24,No,Experienced
+E1891,41,Operations,Lead,Diploma,"$25,213 ",No,5,Yes,17,Yes,Experienced
+E1336,27,Engineering,Lead,Bachelors,"$74,318 ",No,2,No,6,Yes,Veteran
+E1186,51,HR,Associate,PhD,"$79,722 ",Yes,1,No,33,No,Experienced
+E1245,27,Engineering,Analyst,PhD,"$110,265 ",Yes,4,Yes,26,No,Experienced
+E1013,43,Sales,Executive,Masters,"$110,811 ",Yes,5,Yes,29,Yes,Experienced
+E1689,53,Operations,Clerk,High School,"$36,999 ",Yes,3,Yes,22,No,Experienced
+E1144,39,Sales,Manager,Diploma,"$104,892 ",No,1,No,30,Yes,Experienced
+E1184,51,Operations,Manager,Diploma,"$107,051 ",No,5,Yes,6,No,Veteran
+E1256,37,Engineering,Analyst,Masters,"$81,842 ",Yes,1,Yes,31,No,Experienced
+E1730,48,Sales,Analyst,Diploma,"$72,198 ",Yes,2,Yes,34,Yes,Experienced
+E1204,39,Operations,Lead,Bachelors,"$27,846 ",Yes,3,No,5,No,Veteran
+E1998,28,Marketing,Lead,PhD,"$43,741 ",Yes,1,No,27,Yes,Experienced
+E1848,31,HR,Executive,Diploma,"$50,908 ",Yes,4,No,39,No,Experienced
+E1957,43,Marketing,Manager,High School,"$65,619 ",No,4,Yes,23,No,Experienced
+E1720,35,Marketing,Lead,Masters,"$98,976 ",No,2,No,26,No,Experienced
+E1934,48,Finance,Executive,PhD,"$29,076 ",Yes,1,No,37,Yes,Experienced
+E1830,23,Marketing,Clerk,Masters,"$25,741 ",Yes,1,No,2,Yes,New
+E1562,40,Engineering,Clerk,Masters,"$52,130 ",Yes,4,No,29,No,Experienced
+E1613,48,Finance,Executive,Bachelors,"$71,756 ",No,5,No,7,Yes,Veteran
+E1793,37,Engineering,Executive,Bachelors,"$45,525 ",No,2,Yes,10,No,Veteran
+E1379,53,Operations,Associate,Masters,"$105,947 ",Yes,5,Yes,6,No,Veteran
+E1313,43,Engineering,Analyst,Bachelors,"$114,574 ",Yes,4,Yes,25,No,Experienced
+E1762,47,HR,Executive,PhD,"$98,278 ",Yes,4,No,20,No,Experienced
+E1670,53,Marketing,Clerk,PhD,"$55,740 ",Yes,5,Yes,37,No,Experienced
+E1235,28,Finance,Executive,PhD,"$65,833 ",No,5,No,27,No,Experienced
+E1232,24,Engineering,Associate,Bachelors,"$107,728 ",No,5,No,37,Yes,Experienced
+E1372,56,Engineering,Lead,PhD,"$43,248 ",No,3,No,28,No,Experienced
+E1897,49,Sales,Clerk,Diploma,"$43,989 ",No,3,No,26,No,Experienced
+E1265,40,HR,Lead,Masters,"$23,849 ",Yes,1,No,28,No,Experienced
+E1592,27,HR,Analyst,High School,"$62,215 ",Yes,1,Yes,5,Yes,Veteran
+E1222,42,Sales,Analyst,High School,"$118,505 ",No,3,Yes,37,No,Experienced
+E1284,52,Marketing,Lead,Masters,"$84,925 ",Yes,4,No,30,Yes,Experienced
+E1561,20,Finance,Lead,Masters,"$70,940 ",No,5,No,2,No,New
+E1500,50,Finance,Manager,Bachelors,"$50,954 ",Yes,4,No,34,Yes,Experienced
+E1604,56,Sales,Lead,Bachelors,"$96,067 ",Yes,1,Yes,33,Yes,Experienced
+E1856,32,Marketing,Executive,High School,"$56,182 ",No,4,Yes,15,Yes,Experienced
+E1078,44,Finance,Associate,Diploma,"$84,925 ",Yes,5,No,23,Yes,Experienced
+E1172,36,HR,Lead,Diploma,"$63,526 ",Yes,4,No,12,No,Experienced
+E1237,38,Engineering,Executive,High School,"$52,088 ",Yes,5,No,29,Yes,Experienced
+E1329,44,Engineering,Clerk,PhD,"$113,863 ",Yes,2,No,25,No,Experienced
+E1312,59,Marketing,Executive,Bachelors,"$70,516 ",Yes,4,No,37,No,Experienced
+E1942,52,Marketing,Associate,High School,"$92,489 ",Yes,5,No,5,No,Veteran
+E1113,20,Finance,Manager,Bachelors,"$84,925 ",Yes,5,No,11,Yes,Experienced
+E1763,42,HR,Associate,Bachelors,"$32,391 ",Yes,5,Yes,26,Yes,Experienced
+E1472,55,HR,Clerk,PhD,"$112,420 ",Yes,5,Yes,23,No,Experienced
+E1870,56,Sales,Manager,PhD,"$36,999 ",No,3,No,22,No,Experienced
+E1585,35,HR,Lead,Diploma,"$114,636 ",No,5,Yes,4,No,Veteran
+E1986,37,Sales,Lead,Masters,"$32,453 ",No,5,No,14,No,Experienced
+E1073,45,Engineering,Lead,High School,"$47,128 ",No,4,No,22,No,Experienced
+E1727,51,HR,Analyst,High School,"$86,458 ",No,3,No,36,No,Experienced
+E1749,45,Finance,Analyst,Bachelors,"$45,183 ",No,3,Yes,28,Yes,Experienced
+E1746,45,Marketing,Manager,Masters,"$86,629 ",No,4,Yes,30,No,Experienced
+E1190,57,HR,Executive,PhD,"$86,960 ",No,5,No,10,Yes,Veteran
+E1183,45,Engineering,Lead,Diploma,"$20,112 ",Yes,5,Yes,10,Yes,Veteran
+E1807,41,Engineering,Analyst,Bachelors,"$103,178 ",No,5,Yes,37,Yes,Experienced
+E1877,57,Sales,Manager,Diploma,"$64,435 ",No,2,No,22,Yes,Experienced
+E1031,56,Operations,Manager,Bachelors,"$65,475 ",Yes,1,No,19,Yes,Experienced
+E1475,51,Engineering,Lead,Diploma,"$110,063 ",Yes,1,No,35,No,Experienced
+E1805,56,HR,Analyst,PhD,"$116,462 ",No,5,Yes,28,Yes,Experienced
+E1504,54,Sales,Associate,PhD,"$109,037 ",No,3,Yes,18,No,Experienced
+E1459,23,HR,Associate,High School,"$101,257 ",Yes,1,Yes,31,Yes,Experienced
+E1931,26,Sales,Analyst,High School,"$76,583 ",No,5,Yes,1,No,New
+E1380,51,Finance,Lead,PhD,"$63,803 ",Yes,2,No,35,No,Experienced
+E1884,28,Marketing,Associate,High School,"$54,087 ",No,1,Yes,38,No,Experienced
+E1000,58,Operations,Executive,Masters,"$47,056 ",No,1,No,3,Yes,Veteran
+E1709,43,Sales,Lead,Bachelors,"$24,886 ",No,3,No,17,Yes,Experienced
+E1842,45,HR,Associate,High School,"$109,765 ",Yes,3,No,12,Yes,Experienced
+E1961,24,Finance,Manager,PhD,"$85,149 ",No,2,No,17,Yes,Experienced
+E1758,34,Marketing,Manager,High School,"$64,535 ",Yes,2,Yes,37,Yes,Experienced
+E1463,44,Engineering,Executive,Diploma,"$50,816 ",Yes,1,No,34,No,Experienced
+E1135,32,Finance,Lead,PhD,"$24,173 ",No,5,Yes,37,No,Experienced
+E1017,43,Sales,Analyst,High School,"$108,454 ",No,4,No,22,No,Experienced
+E1527,32,Sales,Analyst,Bachelors,"$100,201 ",Yes,1,No,28,No,Experienced
+E1399,49,HR,Clerk,High School,"$67,195 ",Yes,2,No,36,No,Experienced
+E1411,42,Engineering,Analyst,Masters,"$74,122 ",No,5,No,23,No,Experienced
+E1675,49,Marketing,Lead,Diploma,"$96,674 ",Yes,1,Yes,27,No,Experienced
+E1287,24,Operations,Executive,High School,"$104,381 ",Yes,4,No,0,No,New
+E1465,55,Finance,Analyst,Bachelors,"$20,136 ",Yes,4,No,35,Yes,Experienced
+E1649,56,HR,Clerk,PhD,"$112,067 ",No,5,Yes,25,Yes,Experienced
+E1557,39,Sales,Analyst,Masters,"$56,413 ",Yes,5,Yes,30,No,Experienced
+E1441,59,Sales,Executive,PhD,"$22,187 ",No,1,No,33,No,Experienced
+E1094,40,Engineering,Lead,Diploma,"$87,450 ",Yes,5,No,3,No,Veteran
+E1928,25,Marketing,Clerk,Masters, unknown ,No,5,Yes,26,Yes,Experienced
+E1419,51,Operations,Clerk,High School,"$55,842 ",No,5,No,23,Yes,Experienced
+E1536,38,Finance,Lead,Bachelors,"$32,207 ",Yes,1,Yes,17,No,Experienced
+E1702,48,Operations,Clerk,Diploma,"$47,216 ",No,3,No,33,Yes,Experienced
+E1160,56,Marketing,Analyst,Bachelors,"$52,298 ",No,2,No,1,No,New
+E1039,33,Engineering,Clerk,Diploma,"$80,957 ",Yes,5,Yes,17,No,Experienced
+E1598,47,Engineering,Clerk,Masters,"$22,581 ",No,5,No,5,No,Veteran
+E1414,55,Finance,Analyst,PhD,"$93,539 ",No,3,No,12,Yes,Experienced
+E1117,58,Engineering,Executive,Diploma,"$38,287 ",No,4,Yes,12,Yes,Experienced
+E1319,21,Sales,Associate,Diploma,"$88,498 ",No,5,No,15,Yes,Experienced
+E1483,44,Marketing,Manager,Bachelors,"$113,782 ",Yes,4,No,20,Yes,Experienced
+E1215,58,HR,Analyst,Bachelors,"$109,116 ",Yes,1,Yes,7,Yes,Veteran
+E1085,30,Engineering,Analyst,High School,"$22,610 ",No,2,No,37,No,Experienced
+E1888,54,HR,Manager,Masters,"$88,226 ",Yes,2,No,32,Yes,Experienced
+E1216,37,Marketing,Clerk,Bachelors,"$75,633 ",No,2,No,36,Yes,Experienced
+E1701,24,Operations,Analyst,Bachelors,"$41,839 ",Yes,4,Yes,33,Yes,Experienced
+E1425,35,Marketing,Analyst,High School, unknown ,Yes,4,No,16,No,Experienced
+E1415,53,Finance,Analyst,PhD,"$51,707 ",Yes,2,No,0,No,New
+E1389,22,Finance,Manager,High School,"$24,458 ",Yes,3,No,24,Yes,Experienced
+E1866,40,Operations,Analyst,PhD,"$84,575 ",No,2,Yes,34,No,Experienced
+E1985,59,Engineering,Lead,Diploma,"$58,225 ",No,5,Yes,36,No,Experienced
+E1797,27,HR,Associate,PhD,"$82,767 ",Yes,2,No,26,No,Experienced
+E1258,54,Marketing,Analyst,Bachelors,"$46,990 ",Yes,3,No,30,Yes,Experienced
+E1798,59,Engineering,Manager,High School,"$84,925 ",Yes,2,No,34,Yes,Experienced
+E1597,27,Engineering,Lead,Diploma,"$97,535 ",No,2,Yes,23,No,Experienced
+E1242,52,HR,Lead,High School,"$96,361 ",No,1,Yes,38,Yes,Experienced
+E1196,30,HR,Analyst,High School,"$51,802 ",Yes,3,No,33,Yes,Experienced
+E1072,43,Engineering,Associate,Bachelors,"$32,297 ",No,4,No,30,Yes,Experienced
+E1666,50,HR,Lead,Bachelors,"$106,598 ",Yes,1,Yes,0,No,New
+E1268,26,HR,Analyst,Diploma,"$84,925 ",No,3,No,37,Yes,Experienced
+E1161,52,Engineering,Executive,Diploma,"$21,481 ",Yes,5,Yes,27,Yes,Experienced
+E1378,20,Finance,Clerk,PhD,"$102,214 ",No,2,No,4,Yes,Veteran
+E1106,46,Marketing,Lead,PhD,"$104,040 ",Yes,5,Yes,31,No,Experienced
+E1712,25,Engineering,Executive,Diploma,"$84,925 ",No,4,Yes,11,Yes,Experienced
+E1871,28,Marketing,Executive,PhD,"$81,845 ",No,5,Yes,13,Yes,Experienced
+E1110,56,Sales,Clerk,Diploma,"$86,899 ",No,4,No,21,No,Experienced
+E1015,41,HR,Lead,High School,"$84,925 ",Yes,2,Yes,10,Yes,Veteran
+E1325,58,Finance,Associate,Diploma,"$95,945 ",No,2,No,20,No,Experienced
+E1142,47,HR,Executive,High School,"$108,791 ",Yes,4,No,39,Yes,Experienced
+E1029,34,HR,Lead,Diploma,"$40,466 ",No,2,No,18,No,Experienced
+E1240,39,Finance,Associate,PhD,"$91,291 ",No,4,No,4,Yes,Veteran
+E1809,25,Finance,Analyst,Diploma,"$84,925 ",No,5,No,24,Yes,Experienced
+E1913,33,Finance,Associate,PhD,"$42,250 ",No,1,No,29,Yes,Experienced
+E1586,42,Operations,Manager,Diploma,"$24,994 ",Yes,5,Yes,9,Yes,Veteran
+E1515,24,Finance,Associate,High School,"$69,298 ",No,2,Yes,4,Yes,Veteran
+E1703,23,Engineering,Lead,High School,"$72,953 ",No,1,Yes,34,Yes,Experienced
+E1115,45,Sales,Associate,Diploma,"$61,520 ",No,1,Yes,16,No,Experienced
+E1580,33,Engineering,Lead,Bachelors,"$115,430 ",Yes,1,No,30,No,Experienced
+E1880,50,Engineering,Clerk,Bachelors,"$32,192 ",No,3,Yes,28,Yes,Experienced
+E1270,36,Sales,Manager,High School,"$74,330 ",No,4,Yes,26,No,Experienced
+E1839,45,HR,Analyst,Bachelors,"$25,232 ",No,4,Yes,19,Yes,Experienced
+E1149,58,HR,Associate,High School,"$30,578 ",Yes,3,Yes,13,No,Experienced
+E1364,35,HR,Analyst,Bachelors,"$117,088 ",Yes,2,No,30,No,Experienced
+E1820,59,Marketing,Analyst,Bachelors,"$28,210 ",Yes,2,Yes,11,No,Experienced
+E1668,58,HR,Manager,Diploma,"$55,710 ",No,2,Yes,1,Yes,New
+E1423,35,HR,Associate,High School,"$76,704 ",No,3,No,39,Yes,Experienced
+E1663,51,Finance,Lead,Diploma,"$109,791 ",Yes,5,No,38,Yes,Experienced
+E1090,52,Sales,Clerk,PhD,"$115,319 ",No,4,Yes,9,Yes,Veteran
+E1291,36,Finance,Clerk,Bachelors,"$80,272 ",Yes,4,Yes,2,No,New
+E1508,55,Finance,Clerk,High School,"$63,939 ",No,3,Yes,3,No,Veteran
+E1062,33,Marketing,Clerk,Masters,"$84,425 ",Yes,2,Yes,29,Yes,Experienced
+E1653,38,Sales,Executive,Diploma,"$84,925 ",Yes,5,No,12,Yes,Experienced
+E1949,29,Operations,Associate,Bachelors,"$103,014 ",No,1,Yes,23,Yes,Experienced
+E1382,59,Sales,Analyst,PhD, unknown ,Yes,2,Yes,1,Yes,New
+E1241,43,Engineering,Executive,High School,"$85,303 ",Yes,3,Yes,27,Yes,Experienced
+E1162,43,Marketing,Manager,PhD,"$76,408 ",Yes,4,Yes,25,No,Experienced
+E1068,59,Sales,Executive,Bachelors,"$28,712 ",Yes,4,Yes,11,Yes,Experienced
+E1350,40,Sales,Lead,Masters,"$84,925 ",Yes,1,No,28,Yes,Experienced
+E1678,42,Operations,Executive,Masters,"$86,025 ",No,4,No,28,No,Experienced
+E1902,38,Marketing,Executive,Bachelors,"$43,559 ",Yes,1,Yes,19,Yes,Experienced
+E1089,54,Marketing,Clerk,PhD,"$115,102 ",No,2,Yes,1,No,New
+E1541,26,HR,Executive,Bachelors,"$48,916 ",Yes,4,Yes,2,Yes,New
+E1155,58,HR,Analyst,Bachelors,"$33,794 ",No,1,Yes,39,Yes,Experienced
+E1930,22,HR,Executive,Diploma,"$35,160 ",No,4,No,24,No,Experienced
+E1525,57,Engineering,Associate,Bachelors,"$56,320 ",Yes,2,Yes,17,No,Experienced
+E1978,25,Operations,Analyst,High School,"$102,956 ",Yes,3,No,29,No,Experienced
+E1051,59,Engineering,Lead,Bachelors,"$105,731 ",No,2,Yes,35,Yes,Experienced
+E1445,31,Finance,Clerk,Masters,"$41,225 ",No,1,No,38,No,Experienced
+E1945,52,Finance,Manager,Masters,"$107,954 ",Yes,1,Yes,25,No,Experienced
+E1412,29,HR,Analyst,High School,"$49,493 ",Yes,5,Yes,21,Yes,Experienced
+E1952,52,HR,Associate,Bachelors,"$112,435 ",Yes,4,No,31,No,Experienced
+E1761,45,HR,Executive,Bachelors,"$110,012 ",Yes,2,No,0,Yes,New
+E1802,45,Engineering,Manager,High School,"$72,656 ",Yes,3,No,20,No,Experienced
+E1925,59,HR,Analyst,PhD,"$114,386 ",No,2,No,31,No,Experienced
+E1642,40,Finance,Analyst,Bachelors,"$20,670 ",No,2,No,25,No,Experienced
+E1251,44,Finance,Manager,High School,"$50,949 ",Yes,1,No,4,Yes,Veteran
+E1038,40,Engineering,Analyst,High School,"$77,649 ",Yes,1,No,21,No,Experienced
+E1210,39,Finance,Manager,High School,"$65,270 ",Yes,3,No,21,No,Experienced
+E1247,57,Operations,Analyst,High School,"$84,925 ",No,5,No,26,No,Experienced
+E1208,22,HR,Analyst,PhD,"$23,765 ",No,2,Yes,37,No,Experienced
+E1710,24,Engineering,Executive,Masters,"$27,485 ",Yes,2,Yes,38,Yes,Experienced
+E1057,37,HR,Clerk,PhD,"$38,375 ",No,1,No,34,No,Experienced
+E1685,58,Sales,Associate,PhD,"$59,178 ",No,4,No,11,No,Experienced
+E1046,27,Operations,Lead,Bachelors,"$36,589 ",No,2,No,17,No,Experienced
+E1782,58,Finance,Associate,High School,"$57,228 ",No,2,No,34,Yes,Experienced
+E1438,22,Sales,Lead,PhD,"$102,722 ",No,1,Yes,9,No,Veteran
+E1491,38,Marketing,Executive,Diploma,"$106,465 ",No,2,Yes,15,Yes,Experienced
+E1896,33,Operations,Clerk,Masters,"$73,027 ",Yes,2,Yes,18,No,Experienced
+E1770,22,Operations,Clerk,Bachelors,"$58,437 ",Yes,4,No,11,Yes,Experienced
+E1041,45,Engineering,Manager,Bachelors,"$33,156 ",Yes,4,Yes,26,Yes,Experienced
+E1860,29,Finance,Clerk,Masters,"$98,824 ",Yes,4,Yes,17,No,Experienced
+E1298,43,HR,Associate,Masters,"$96,872 ",No,2,Yes,33,Yes,Experienced
+E1259,35,Engineering,Analyst,PhD,"$36,193 ",Yes,4,No,18,Yes,Experienced
+E1517,42,Operations,Clerk,Masters,"$64,942 ",No,5,Yes,31,No,Experienced
+E1373,45,Operations,Analyst,High School,"$109,160 ",No,4,Yes,27,No,Experienced
+E1862,42,Operations,Associate,Diploma,"$104,425 ",No,2,No,3,No,Veteran
+E1825,25,Marketing,Manager,Masters,"$76,984 ",No,1,No,4,Yes,Veteran
+E1220,47,HR,Analyst,Bachelors,"$45,991 ",Yes,3,No,38,No,Experienced
+E1658,40,Marketing,Analyst,Bachelors,"$31,577 ",Yes,2,No,17,No,Experienced
+E1104,59,Marketing,Executive,PhD,"$86,216 ",Yes,3,No,5,Yes,Veteran
+E1696,40,Sales,Analyst,Diploma,"$87,165 ",Yes,4,Yes,8,No,Veteran
+E1148,44,HR,Executive,High School,"$102,912 ",No,3,No,3,No,Veteran
+E1622,49,Marketing,Lead,PhD,"$99,698 ",Yes,4,No,14,No,Experienced
+E1351,25,Marketing,Lead,Diploma,"$84,925 ",Yes,5,No,15,No,Experienced
+E1071,37,Engineering,Analyst,Masters,"$89,087 ",Yes,3,Yes,21,No,Experienced
+E1851,33,Engineering,Lead,PhD,"$66,646 ",No,2,No,31,No,Experienced
+E1628,30,Engineering,Lead,Diploma,"$42,010 ",No,4,No,31,Yes,Experienced
+E1638,20,Marketing,Analyst,Bachelors,"$62,239 ",No,5,Yes,32,No,Experienced
+E1177,56,HR,Executive,Bachelors,"$31,442 ",No,4,No,39,No,Experienced
+E1036,37,Engineering,Clerk,Diploma,"$113,526 ",No,4,No,31,No,Experienced
+E1526,26,Finance,Associate,PhD,"$69,170 ",Yes,5,Yes,8,Yes,Veteran
+E1392,35,Sales,Associate,High School,"$103,961 ",Yes,2,No,5,No,Veteran
+E1566,52,HR,Associate,Masters,"$30,655 ",Yes,2,No,25,No,Experienced
+E1623,24,HR,Associate,PhD,"$93,933 ",Yes,2,No,7,Yes,Veteran
+E1781,36,Marketing,Executive,Bachelors,"$70,626 ",Yes,3,No,4,No,Veteran
+E1243,43,Marketing,Analyst,Bachelors,"$108,229 ",No,2,Yes,19,No,Experienced
+E1556,47,Sales,Clerk,Bachelors,"$20,192 ",No,5,Yes,4,No,Veteran
+E1008,30,HR,Clerk,PhD,"$77,149 ",No,1,Yes,17,No,Experienced
+E1422,23,Finance,Clerk,Bachelors,"$115,985 ",No,5,Yes,15,Yes,Experienced
+E1182,21,Operations,Manager,Diploma,"$92,827 ",Yes,3,Yes,25,Yes,Experienced
+E1631,44,Operations,Lead,PhD,"$22,890 ",No,1,Yes,18,Yes,Experienced
+E1102,56,Operations,Analyst,Masters,"$84,925 ",Yes,3,Yes,14,Yes,Experienced
+E1368,36,Finance,Analyst,Masters,"$116,007 ",No,1,Yes,26,Yes,Experienced
+E1281,53,HR,Analyst,High School,"$35,438 ",Yes,5,Yes,0,Yes,New
+E1261,52,Operations,Lead,Bachelors,"$39,233 ",Yes,3,No,28,Yes,Experienced
+E1195,41,Finance,Associate,Bachelors,"$20,887 ",Yes,2,No,19,Yes,Experienced
+E1338,33,Sales,Executive,Diploma,"$108,056 ",No,4,Yes,20,Yes,Experienced
+E1132,34,HR,Associate,PhD,"$44,618 ",Yes,3,Yes,18,No,Experienced
+E1207,45,Finance,Manager,Bachelors,"$66,163 ",Yes,2,No,5,Yes,Veteran
+E1920,44,Engineering,Analyst,Diploma,"$79,546 ",Yes,1,Yes,11,No,Experienced
+E1433,54,Finance,Executive,PhD,"$84,450 ",Yes,4,Yes,25,Yes,Experienced
+E1883,30,Sales,Executive,Masters,"$106,795 ",Yes,2,Yes,18,No,Experienced
+E1640,25,Engineering,Associate,Masters,"$68,008 ",No,4,No,22,Yes,Experienced
+E1011,55,Operations,Associate,Bachelors,"$52,252 ",No,1,No,17,No,Experienced
+E1494,38,Finance,Clerk,High School,"$64,049 ",Yes,1,Yes,30,No,Experienced
+E1185,25,Marketing,Executive,High School,"$39,581 ",Yes,4,No,9,No,Veteran
