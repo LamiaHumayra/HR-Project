@@ -1,5 +1,13 @@
 # HR-Project
-HR analytics project
+Recently, I completed a self-guided data analytics project using a messy HR dataset to practice my full workflow — from raw data to insights and dashboards.
+🔍 Here's what I did:
+ ✅ Cleaned and preprocessed over 1000+ rows of HR data in Excel (missing values, duplicates, formatting issues)
+ 📊 Performed descriptive statistical analysis to uncover key metrics like attrition rate, job satisfaction, and overtime trends
+ 🧠 Wrote SQL queries in DB Browser to answer deeper HR questions
+ 📈 Built a Power BI dashboard with interactive visuals showing:
+ – Attrition breakdown by department, tenure, and overtime
+ – Job satisfaction trends
+ – Tenure group analysis (New, Mid-Level, Veteran)
 
 HR Data Analytics Project from Scratch (End-to-End)
 
